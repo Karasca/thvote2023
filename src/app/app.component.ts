@@ -26,7 +26,7 @@ export class AppComponent implements OnInit{
   }
 
   setSelected(selected:number){
-    this.hideUpTo = selected+1;
+    this.hideUpTo = selected;
   }
 
   ngOnInit() {
