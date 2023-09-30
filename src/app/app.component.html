@@ -142,6 +142,7 @@
     width: 200px;
     display: block;
     margin: auto;
+    cursor: pointer;
   }
 
   svg#rocket-smoke {
@@ -330,7 +331,7 @@
 
 <div class="content" role="main">
 
-  <svg id="yin-yang" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 101.678 101.678">
+  <svg id="yin-yang" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 101.678 101.678" (click)='swapYear()'>
     <title>Touhou</title>
     <circle cx='50' cy='50' r='40' style='fill:#e4250c;'/>
     <path d='M50 10 A 20 20 0 0 1 50 50 A 20 20 0 0 0 50 90 A 40 40 0 0 0 50 10' style='fill:#F3EECE;'/>
@@ -338,7 +339,7 @@
     <circle cx='50' cy='70' r='7' style='fill:#e4250c;'/>
   </svg>
 
-  <h2>2023 Character Rankings</h2>
+  <h2>{{selected}} Character Rankings</h2>
   <p>Click a number to unspoil up to that selected number. #1 means #1, would recommend starting from the bottom.</p>
   <p>Thanks to <a href="https://maribelhearn.com/">Maribel Hearn</a> for the translated table</p>
 
@@ -348,14 +349,14 @@
       <td class="ranking-data" mat-cell *matCellDef="let character">{{character.ranking}}</td>
     </ng-container>
 
-    <ng-container matColumnDef="ranking2022">
-      <th mat-header-cell *matHeaderCellDef>2022</th>
-      <td mat-cell *matCellDef="let character">{{character.ranking2022}}</td>
+    <ng-container matColumnDef="rankinglast">
+      <th mat-header-cell *matHeaderCellDef>{{selected - 1}}</th>
+      <td mat-cell *matCellDef="let character">{{character.rankinglast}}</td>
     </ng-container>
 
-    <ng-container matColumnDef="ranking2021">
-      <th mat-header-cell *matHeaderCellDef>2021</th>
-      <td mat-cell *matCellDef="let character">{{character.ranking2021}}</td>
+    <ng-container matColumnDef="rankingbeforelast">
+      <th mat-header-cell *matHeaderCellDef>{{selected - 2 }}</th>
+      <td mat-cell *matCellDef="let character">{{character.rankingbeforelast}}</td>
     </ng-container>
 
     <ng-container matColumnDef="name">

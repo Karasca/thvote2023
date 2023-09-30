@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import characterList from '../data/votedata.json';
+import characterList2023 from '../data/votedata.json';
+import characterList2022 from '../data/votedata2022.json';
 
 import {
   trigger,
@@ -17,10 +18,11 @@ import {
 })
 export class AppComponent implements OnInit{
   title = 'tvapp';
-  characters = characterList;
+  characters = characterList2023;
   hideUpTo = 1000;
-  displayedColumns: string[] = ['ranking', 'ranking2022', 'ranking2021', 'name', 'points','nr1votes', 'comments', 'fanworks'];
+  displayedColumns: string[] = ['ranking', 'rankinglast', 'rankingbeforelast', 'name', 'points','nr1votes', 'comments', 'fanworks'];
   warned = false;
+  selected = 2023;
   isGreater(rank:number){
     return rank < this.hideUpTo;
   }
@@ -33,6 +35,16 @@ export class AppComponent implements OnInit{
       this.hideUpTo = selected;
     }
     
+  }
+
+  swapYear(){
+    if(this.characters === characterList2023){
+      this.characters = characterList2022;
+      this.selected = 2022;
+    }else{
+      this.characters = characterList2023;
+      this.selected = 2023;
+    }
   }
 
   ngOnInit() {
