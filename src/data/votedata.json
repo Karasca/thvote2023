@@ -1,0 +1,2162 @@
+[
+    {
+      "ranking": 1,
+      "ranking2022": "2",
+      "ranking2021": "2",
+      "name": "Marisa Kirisame",
+      "points": "17,612",
+      "nr1votes": "3,494",
+      "comments": "3,721",
+      "fanworks": 43
+    },
+    {
+      "ranking": 2,
+      "ranking2022": "3",
+      "ranking2021": "3",
+      "name": "Reimu Hakurei",
+      "points": "16,497",
+      "nr1votes": "3,066",
+      "comments": "3,357",
+      "fanworks": 44
+    },
+    {
+      "ranking": 3,
+      "ranking2022": "1",
+      "ranking2021": "5",
+      "name": "Flandre Scarlet",
+      "points": "16,343",
+      "nr1votes": "3,872",
+      "comments": "3,700",
+      "fanworks": 27
+    },
+    {
+      "ranking": 4,
+      "ranking2022": "6",
+      "ranking2021": "4",
+      "name": "Koishi Komeiji",
+      "points": "14,150",
+      "nr1votes": "2,801",
+      "comments": "3,007",
+      "fanworks": 42
+    },
+    {
+      "ranking": 5,
+      "ranking2022": "4",
+      "ranking2021": "1",
+      "name": "Youmu Konpaku",
+      "points": "13,751",
+      "nr1votes": "3,189",
+      "comments": "2,820",
+      "fanworks": 19
+    },
+    {
+      "ranking": 6,
+      "ranking2022": "5",
+      "ranking2021": "6",
+      "name": "Sakuya Izayoi",
+      "points": "13,173",
+      "nr1votes": "2,407",
+      "comments": "2,825",
+      "fanworks": 38
+    },
+    {
+      "ranking": 7,
+      "ranking2022": "7",
+      "ranking2021": "7",
+      "name": "Remilia Scarlet",
+      "points": "12,575",
+      "nr1votes": "2,104",
+      "comments": "2,750",
+      "fanworks": 17
+    },
+    {
+      "ranking": 8,
+      "ranking2022": "8",
+      "ranking2021": "8",
+      "name": "Fujiwara no Mokou",
+      "points": "8,748",
+      "nr1votes": "1,532",
+      "comments": "1,730",
+      "fanworks": 11
+    },
+    {
+      "ranking": 9,
+      "ranking2022": "9",
+      "ranking2021": "9",
+      "name": "Satori Komeiji",
+      "points": "8,629",
+      "nr1votes": "1,136",
+      "comments": "1,666",
+      "fanworks": 12
+    },
+    {
+      "ranking": 10,
+      "ranking2022": "10",
+      "ranking2021": "10",
+      "name": "Yuyuko Saigyouji",
+      "points": "7,224",
+      "nr1votes": "1,025",
+      "comments": "1,442",
+      "fanworks": 8
+    },
+    {
+      "ranking": 11,
+      "ranking2022": "11",
+      "ranking2021": "12",
+      "name": "Alice Margatroid",
+      "points": "6,774",
+      "nr1votes": "1,019",
+      "comments": "1,179",
+      "fanworks": 11
+    },
+    {
+      "ranking": 12,
+      "ranking2022": "14",
+      "ranking2021": "13",
+      "name": "Sanae Kochiya",
+      "points": "6,535",
+      "nr1votes": "1,025",
+      "comments": "1,223",
+      "fanworks": 5
+    },
+    {
+      "ranking": 13,
+      "ranking2022": "12",
+      "ranking2021": "11",
+      "name": "Aya Shameimaru",
+      "points": "6,429",
+      "nr1votes": "995",
+      "comments": "1,131",
+      "fanworks": 19
+    },
+    {
+      "ranking": 14,
+      "ranking2022": "13",
+      "ranking2021": "14",
+      "name": "Reisen Udongein Inaba",
+      "points": "6,194",
+      "nr1votes": "769",
+      "comments": "1,186",
+      "fanworks": 7
+    },
+    {
+      "ranking": 15,
+      "ranking2022": "15",
+      "ranking2021": "18",
+      "name": "Cirno",
+      "points": "5,981",
+      "nr1votes": "971",
+      "comments": "1,520",
+      "fanworks": 26
+    },
+    {
+      "ranking": 16,
+      "ranking2022": "16",
+      "ranking2021": "16",
+      "name": "Yukari Yakumo",
+      "points": "5,552",
+      "nr1votes": "692",
+      "comments": "1,088",
+      "fanworks": 6
+    },
+    {
+      "ranking": 17,
+      "ranking2022": "18",
+      "ranking2021": "15",
+      "name": "Tenshi Hinanawi",
+      "points": "5,139",
+      "nr1votes": "803",
+      "comments": "918",
+      "fanworks": 17
+    },
+    {
+      "ranking": 18,
+      "ranking2022": "19",
+      "ranking2021": "19",
+      "name": "Patchouli Knowledge",
+      "points": "5,061",
+      "nr1votes": "664",
+      "comments": "916",
+      "fanworks": 5
+    },
+    {
+      "ranking": 19,
+      "ranking2022": "17",
+      "ranking2021": "21",
+      "name": "Rumia",
+      "points": "4,933",
+      "nr1votes": "738",
+      "comments": "1,195",
+      "fanworks": 25
+    },
+    {
+      "ranking": 20,
+      "ranking2022": "20",
+      "ranking2021": "22",
+      "name": "Suwako Moriya",
+      "points": "4,749",
+      "nr1votes": "706",
+      "comments": "995",
+      "fanworks": 11
+    },
+    {
+      "ranking": 21,
+      "ranking2022": "21",
+      "ranking2021": "17",
+      "name": "Hata no Kokoro",
+      "points": "4,660",
+      "nr1votes": "675",
+      "comments": "904",
+      "fanworks": 3
+    },
+    {
+      "ranking": 22,
+      "ranking2022": "25",
+      "ranking2021": "20",
+      "name": "Kogasa Tatara",
+      "points": "4,403",
+      "nr1votes": "605",
+      "comments": "842",
+      "fanworks": 16
+    },
+    {
+      "ranking": 23,
+      "ranking2022": "23",
+      "ranking2021": "25",
+      "name": "Hong Meiling",
+      "points": "4,335",
+      "nr1votes": "576",
+      "comments": "924",
+      "fanworks": 11
+    },
+    {
+      "ranking": 24,
+      "ranking2022": "34",
+      "ranking2021": "37",
+      "name": "Ran Yakumo",
+      "points": "4,064",
+      "nr1votes": "529",
+      "comments": "830",
+      "fanworks": 10
+    },
+    {
+      "ranking": 25,
+      "ranking2022": "22",
+      "ranking2021": "23",
+      "name": "Eiki Shiki, Yamaxanadu",
+      "points": "3,815",
+      "nr1votes": "479",
+      "comments": "728",
+      "fanworks": 11
+    },
+    {
+      "ranking": 26,
+      "ranking2022": "26",
+      "ranking2021": "24",
+      "name": "Yuuka Kazami",
+      "points": "3,813",
+      "nr1votes": "486",
+      "comments": "734",
+      "fanworks": 9
+    },
+    {
+      "ranking": 27,
+      "ranking2022": "24",
+      "ranking2021": "27",
+      "name": "Momiji Inubashiri",
+      "points": "3,517",
+      "nr1votes": "521",
+      "comments": "717",
+      "fanworks": 11
+    },
+    {
+      "ranking": 28,
+      "ranking2022": "28",
+      "ranking2021": "28",
+      "name": "Junko",
+      "points": "3,483",
+      "nr1votes": "411",
+      "comments": "721",
+      "fanworks": 11
+    },
+    {
+      "ranking": 29,
+      "ranking2022": "53",
+      "ranking2021": "-",
+      "name": "Yuuma Toutetsu",
+      "points": "3,466",
+      "nr1votes": "322",
+      "comments": "780",
+      "fanworks": 15
+    },
+    {
+      "ranking": 30,
+      "ranking2022": "31",
+      "ranking2021": "31",
+      "name": "Suika Ibuki",
+      "points": "3,451",
+      "nr1votes": "427",
+      "comments": "650",
+      "fanworks": 6
+    },
+    {
+      "ranking": 31,
+      "ranking2022": "27",
+      "ranking2021": "26",
+      "name": "Toyosatomimi no Miko",
+      "points": "3,257",
+      "nr1votes": "530",
+      "comments": "644",
+      "fanworks": 6
+    },
+    {
+      "ranking": 32,
+      "ranking2022": "30",
+      "ranking2021": "30",
+      "name": "Shion Yorigami",
+      "points": "3,175",
+      "nr1votes": "381",
+      "comments": "657",
+      "fanworks": 3
+    },
+    {
+      "ranking": 33,
+      "ranking2022": "36",
+      "ranking2021": "39",
+      "name": "Utsuho Reiuji",
+      "points": "3,162",
+      "nr1votes": "453",
+      "comments": "597",
+      "fanworks": 6
+    },
+    {
+      "ranking": 34,
+      "ranking2022": "40",
+      "ranking2021": "35",
+      "name": "Kaguya Houraisan",
+      "points": "2,966",
+      "nr1votes": "335",
+      "comments": "512",
+      "fanworks": 4
+    },
+    {
+      "ranking": 35,
+      "ranking2022": "32",
+      "ranking2021": "29",
+      "name": "Seija Kijin",
+      "points": "2,953",
+      "nr1votes": "457",
+      "comments": "614",
+      "fanworks": 5
+    },
+    {
+      "ranking": 36,
+      "ranking2022": "33",
+      "ranking2021": "33",
+      "name": "Sagume Kishin",
+      "points": "2,920",
+      "nr1votes": "359",
+      "comments": "532",
+      "fanworks": 2
+    },
+    {
+      "ranking": 37,
+      "ranking2022": "38",
+      "ranking2021": "41",
+      "name": "Parsee Mizuhashi",
+      "points": "2,844",
+      "nr1votes": "430",
+      "comments": "569",
+      "fanworks": 9
+    },
+    {
+      "ranking": 38,
+      "ranking2022": "29",
+      "ranking2021": "34",
+      "name": "Hecatia Lapislazuli",
+      "points": "2,830",
+      "nr1votes": "298",
+      "comments": "595",
+      "fanworks": 4
+    },
+    {
+      "ranking": 39,
+      "ranking2022": "37",
+      "ranking2021": "32",
+      "name": "Mononobe no Futo",
+      "points": "2,763",
+      "nr1votes": "366",
+      "comments": "571",
+      "fanworks": 9
+    },
+    {
+      "ranking": 40,
+      "ranking2022": "35",
+      "ranking2021": "36",
+      "name": "Nitori Kawashiro",
+      "points": "2,630",
+      "nr1votes": "363",
+      "comments": "482",
+      "fanworks": 5
+    },
+    {
+      "ranking": 41,
+      "ranking2022": "45",
+      "ranking2021": "49",
+      "name": "Rin Kaenbyou",
+      "points": "2,615",
+      "nr1votes": "241",
+      "comments": "533",
+      "fanworks": 9
+    },
+    {
+      "ranking": 41,
+      "ranking2022": "41",
+      "ranking2021": "38",
+      "name": "Renko Usami",
+      "points": "2,615",
+      "nr1votes": "298",
+      "comments": "447",
+      "fanworks": 6
+    },
+    {
+      "ranking": 43,
+      "ranking2022": "39",
+      "ranking2021": "40",
+      "name": "Kasen Ibaraki",
+      "points": "2,462",
+      "nr1votes": "247",
+      "comments": "433",
+      "fanworks": 12
+    },
+    {
+      "ranking": 44,
+      "ranking2022": "43",
+      "ranking2021": "42",
+      "name": "Okina Matara",
+      "points": "2,428",
+      "nr1votes": "286",
+      "comments": "499",
+      "fanworks": 11
+    },
+    {
+      "ranking": 45,
+      "ranking2022": "42",
+      "ranking2021": "45",
+      "name": "Hina Kagiyama",
+      "points": "2,358",
+      "nr1votes": "320",
+      "comments": "479",
+      "fanworks": 6
+    },
+    {
+      "ranking": 46,
+      "ranking2022": "65",
+      "ranking2021": "58",
+      "name": "Yachie Kicchou",
+      "points": "2,150",
+      "nr1votes": "171",
+      "comments": "465",
+      "fanworks": 6
+    },
+    {
+      "ranking": 47,
+      "ranking2022": "57",
+      "ranking2021": "55",
+      "name": "Tsukasa Kudamaki",
+      "points": "1,993",
+      "nr1votes": "132",
+      "comments": "429",
+      "fanworks": 7
+    },
+    {
+      "ranking": 48,
+      "ranking2022": "49",
+      "ranking2021": "63",
+      "name": "Nazrin",
+      "points": "1,984",
+      "nr1votes": "300",
+      "comments": "387",
+      "fanworks": 10
+    },
+    {
+      "ranking": 49,
+      "ranking2022": "47",
+      "ranking2021": "47",
+      "name": "Byakuren Hijiri",
+      "points": "1,983",
+      "nr1votes": "213",
+      "comments": "326",
+      "fanworks": 5
+    },
+    {
+      "ranking": 50,
+      "ranking2022": "56",
+      "ranking2021": "61",
+      "name": "Chen",
+      "points": "1,946",
+      "nr1votes": "192",
+      "comments": "443",
+      "fanworks": 14
+    },
+    {
+      "ranking": 51,
+      "ranking2022": "44",
+      "ranking2021": "43",
+      "name": "Nue Houjuu",
+      "points": "1,940",
+      "nr1votes": "206",
+      "comments": "365",
+      "fanworks": 5
+    },
+    {
+      "ranking": 52,
+      "ranking2022": "-",
+      "ranking2021": "-",
+      "name": "Hisami Yomotsu",
+      "points": "1,907",
+      "nr1votes": "102",
+      "comments": "500",
+      "fanworks": 6
+    },
+    {
+      "ranking": 53,
+      "ranking2022": "46",
+      "ranking2021": "48",
+      "name": "Eirin Yagokoro",
+      "points": "1,829",
+      "nr1votes": "145",
+      "comments": "378",
+      "fanworks": 4
+    },
+    {
+      "ranking": 54,
+      "ranking2022": "60",
+      "ranking2021": "54",
+      "name": "Maribel Hearn",
+      "points": "1,762",
+      "nr1votes": "120",
+      "comments": "317",
+      "fanworks": 6
+    },
+    {
+      "ranking": 55,
+      "ranking2022": "54",
+      "ranking2021": "53",
+      "name": "Keine Kamishirasawa",
+      "points": "1,709",
+      "nr1votes": "180",
+      "comments": "303",
+      "fanworks": 5
+    },
+    {
+      "ranking": 56,
+      "ranking2022": "50",
+      "ranking2021": "50",
+      "name": "Doremy Sweet",
+      "points": "1,651",
+      "nr1votes": "169",
+      "comments": "331",
+      "fanworks": 2
+    },
+    {
+      "ranking": 57,
+      "ranking2022": "55",
+      "ranking2021": "67",
+      "name": "Koakuma",
+      "points": "1,628",
+      "nr1votes": "140",
+      "comments": "329",
+      "fanworks": 3
+    },
+    {
+      "ranking": 58,
+      "ranking2022": "51",
+      "ranking2021": "46",
+      "name": "Keiki Haniyasushin",
+      "points": "1,605",
+      "nr1votes": "169",
+      "comments": "316",
+      "fanworks": 3
+    },
+    {
+      "ranking": 59,
+      "ranking2022": "59",
+      "ranking2021": "51",
+      "name": "Minamitsu Murasa",
+      "points": "1,590",
+      "nr1votes": "212",
+      "comments": "295",
+      "fanworks": 1
+    },
+    {
+      "ranking": 60,
+      "ranking2022": "58",
+      "ranking2021": "59",
+      "name": "Seiga Kaku",
+      "points": "1,531",
+      "nr1votes": "131",
+      "comments": "296",
+      "fanworks": 4
+    },
+    {
+      "ranking": 61,
+      "ranking2022": "66",
+      "ranking2021": "60",
+      "name": "Daiyousei",
+      "points": "1,517",
+      "nr1votes": "126",
+      "comments": "301",
+      "fanworks": 6
+    },
+    {
+      "ranking": 62,
+      "ranking2022": "47",
+      "ranking2021": "52",
+      "name": "Clownpiece",
+      "points": "1,509",
+      "nr1votes": "116",
+      "comments": "279",
+      "fanworks": 3
+    },
+    {
+      "ranking": 63,
+      "ranking2022": "69",
+      "ranking2021": "71",
+      "name": "Mystia Lorelei",
+      "points": "1,501",
+      "nr1votes": "204",
+      "comments": "292",
+      "fanworks": 8
+    },
+    {
+      "ranking": 64,
+      "ranking2022": "52",
+      "ranking2021": "44",
+      "name": "Chimata Tenkyuu",
+      "points": "1,456",
+      "nr1votes": "127",
+      "comments": "316",
+      "fanworks": 5
+    },
+    {
+      "ranking": 65,
+      "ranking2022": "71",
+      "ranking2021": "64",
+      "name": "Sekibanki",
+      "points": "1,454",
+      "nr1votes": "192",
+      "comments": "289",
+      "fanworks": 5
+    },
+    {
+      "ranking": 66,
+      "ranking2022": "61",
+      "ranking2021": "57",
+      "name": "Megumu Iizunamaru",
+      "points": "1,444",
+      "nr1votes": "132",
+      "comments": "337",
+      "fanworks": 5
+    },
+    {
+      "ranking": 67,
+      "ranking2022": "67",
+      "ranking2021": "64",
+      "name": "Tewi Inaba",
+      "points": "1,414",
+      "nr1votes": "119",
+      "comments": "254",
+      "fanworks": 2
+    },
+    {
+      "ranking": 68,
+      "ranking2022": "-",
+      "ranking2021": "-",
+      "name": "Zanmu Nippaku",
+      "points": "1,403",
+      "nr1votes": "67",
+      "comments": "278",
+      "fanworks": 6
+    },
+    {
+      "ranking": 69,
+      "ranking2022": "70",
+      "ranking2021": "66",
+      "name": "Kagerou Imaizumi",
+      "points": "1,365",
+      "nr1votes": "131",
+      "comments": "258",
+      "fanworks": 9
+    },
+    {
+      "ranking": 70,
+      "ranking2022": "75",
+      "ranking2021": "82",
+      "name": "Mima",
+      "points": "1,355",
+      "nr1votes": "128",
+      "comments": "351",
+      "fanworks": 3
+    },
+    {
+      "ranking": 71,
+      "ranking2022": "-",
+      "ranking2021": "-",
+      "name": "Enoko Mitsugashira",
+      "points": "1,348",
+      "nr1votes": "47",
+      "comments": "379",
+      "fanworks": 7
+    },
+    {
+      "ranking": 72,
+      "ranking2022": "76",
+      "ranking2021": "69",
+      "name": "Kosuzu Motoori",
+      "points": "1,330",
+      "nr1votes": "114",
+      "comments": "225",
+      "fanworks": 8
+    },
+    {
+      "ranking": 73,
+      "ranking2022": "62",
+      "ranking2021": "76",
+      "name": "Iku Nagae",
+      "points": "1,324",
+      "nr1votes": "139",
+      "comments": "257",
+      "fanworks": 5
+    },
+    {
+      "ranking": 74,
+      "ranking2022": "-",
+      "ranking2021": "-",
+      "name": "Chiyari Tenkajin",
+      "points": "1,310",
+      "nr1votes": "70",
+      "comments": "390",
+      "fanworks": 4
+    },
+    {
+      "ranking": 75,
+      "ranking2022": "79",
+      "ranking2021": "81",
+      "name": "Mamizou Futatsuiwa",
+      "points": "1,302",
+      "nr1votes": "109",
+      "comments": "242",
+      "fanworks": 3
+    },
+    {
+      "ranking": 76,
+      "ranking2022": "78",
+      "ranking2021": "78",
+      "name": "Kanako Yasaka",
+      "points": "1,287",
+      "nr1votes": "118",
+      "comments": "263",
+      "fanworks": 3
+    },
+    {
+      "ranking": 76,
+      "ranking2022": "68",
+      "ranking2021": "80",
+      "name": "Joon Yorigami",
+      "points": "1,287",
+      "nr1votes": "119",
+      "comments": "267",
+      "fanworks": 6
+    },
+    {
+      "ranking": 78,
+      "ranking2022": "-",
+      "ranking2021": "-",
+      "name": "Son Biten",
+      "points": "1,269",
+      "nr1votes": "55",
+      "comments": "321",
+      "fanworks": 2
+    },
+    {
+      "ranking": 79,
+      "ranking2022": "63",
+      "ranking2021": "68",
+      "name": "Kutaka Niwatari",
+      "points": "1,255",
+      "nr1votes": "129",
+      "comments": "265",
+      "fanworks": 3
+    },
+    {
+      "ranking": 80,
+      "ranking2022": "64",
+      "ranking2021": "56",
+      "name": "Sumireko Usami",
+      "points": "1,213",
+      "nr1votes": "127",
+      "comments": "220",
+      "fanworks": 5
+    },
+    {
+      "ranking": 81,
+      "ranking2022": "93",
+      "ranking2021": "88",
+      "name": "Saki Kurokoma",
+      "points": "1,198",
+      "nr1votes": "66",
+      "comments": "273",
+      "fanworks": 3
+    },
+    {
+      "ranking": 82,
+      "ranking2022": "72",
+      "ranking2021": "69",
+      "name": "Yuugi Hoshiguma",
+      "points": "1,194",
+      "nr1votes": "138",
+      "comments": "247",
+      "fanworks": 0
+    },
+    {
+      "ranking": 83,
+      "ranking2022": "74",
+      "ranking2021": "79",
+      "name": "Rinnosuke Morichika",
+      "points": "1,173",
+      "nr1votes": "101",
+      "comments": "276",
+      "fanworks": 3
+    },
+    {
+      "ranking": 84,
+      "ranking2022": "80",
+      "ranking2021": "74",
+      "name": "Hatate Himekaidou",
+      "points": "1,145",
+      "nr1votes": "96",
+      "comments": "195",
+      "fanworks": 4
+    },
+    {
+      "ranking": 85,
+      "ranking2022": "73",
+      "ranking2021": "74",
+      "name": "Soga no Tojiko",
+      "points": "1,140",
+      "nr1votes": "120",
+      "comments": "234",
+      "fanworks": 1
+    },
+    {
+      "ranking": 86,
+      "ranking2022": "87",
+      "ranking2021": "83",
+      "name": "Hieda no Akyuu",
+      "points": "1,112",
+      "nr1votes": "109",
+      "comments": "216",
+      "fanworks": 5
+    },
+    {
+      "ranking": 87,
+      "ranking2022": "81",
+      "ranking2021": "85",
+      "name": "Wriggle Nightbug",
+      "points": "1,108",
+      "nr1votes": "199",
+      "comments": "256",
+      "fanworks": 10
+    },
+    {
+      "ranking": 88,
+      "ranking2022": "76",
+      "ranking2021": "72",
+      "name": "Komachi Onozuka",
+      "points": "1,105",
+      "nr1votes": "91",
+      "comments": "195",
+      "fanworks": 4
+    },
+    {
+      "ranking": 89,
+      "ranking2022": "83",
+      "ranking2021": "84",
+      "name": "Lunasa Prismriver",
+      "points": "1,060",
+      "nr1votes": "132",
+      "comments": "206",
+      "fanworks": 5
+    },
+    {
+      "ranking": 90,
+      "ranking2022": "96",
+      "ranking2021": "91",
+      "name": "Lily White",
+      "points": "981",
+      "nr1votes": "119",
+      "comments": "222",
+      "fanworks": 2
+    },
+    {
+      "ranking": 91,
+      "ranking2022": "82",
+      "ranking2021": "73",
+      "name": "Shinmyoumaru Sukuna",
+      "points": "975",
+      "nr1votes": "105",
+      "comments": "185",
+      "fanworks": 6
+    },
+    {
+      "ranking": 92,
+      "ranking2022": "99",
+      "ranking2021": "92",
+      "name": "Miyoi Okunoda",
+      "points": "966",
+      "nr1votes": "48",
+      "comments": "214",
+      "fanworks": 2
+    },
+    {
+      "ranking": 93,
+      "ranking2022": "95",
+      "ranking2021": "96",
+      "name": "Aunn Komano",
+      "points": "962",
+      "nr1votes": "64",
+      "comments": "198",
+      "fanworks": 3
+    },
+    {
+      "ranking": 94,
+      "ranking2022": "90",
+      "ranking2021": "98",
+      "name": "Shinki",
+      "points": "903",
+      "nr1votes": "50",
+      "comments": "174",
+      "fanworks": 3
+    },
+    {
+      "ranking": 95,
+      "ranking2022": "89",
+      "ranking2021": "93",
+      "name": "Shizuha Aki",
+      "points": "873",
+      "nr1votes": "83",
+      "comments": "187",
+      "fanworks": 6
+    },
+    {
+      "ranking": 96,
+      "ranking2022": "85",
+      "ranking2021": "95",
+      "name": "Medicine Melancholy",
+      "points": "866",
+      "nr1votes": "86",
+      "comments": "149",
+      "fanworks": 3
+    },
+    {
+      "ranking": 97,
+      "ranking2022": "86",
+      "ranking2021": "87",
+      "name": "Yoshika Miyako",
+      "points": "853",
+      "nr1votes": "91",
+      "comments": "179",
+      "fanworks": 2
+    },
+    {
+      "ranking": 97,
+      "ranking2022": "91",
+      "ranking2021": "90",
+      "name": "Watatsuki no Yorihime",
+      "points": "853",
+      "nr1votes": "70",
+      "comments": "187",
+      "fanworks": 1
+    },
+    {
+      "ranking": 99,
+      "ranking2022": "88",
+      "ranking2021": "86",
+      "name": "Raiko Horikawa",
+      "points": "840",
+      "nr1votes": "90",
+      "comments": "172",
+      "fanworks": 2
+    },
+    {
+      "ranking": 100,
+      "ranking2022": "92",
+      "ranking2021": "94",
+      "name": "Minoriko Aki",
+      "points": "811",
+      "nr1votes": "57",
+      "comments": "171",
+      "fanworks": 5
+    },
+    {
+      "ranking": 101,
+      "ranking2022": "84",
+      "ranking2021": "62",
+      "name": "Momoyo Himemushi",
+      "points": "805",
+      "nr1votes": "64",
+      "comments": "177",
+      "fanworks": 5
+    },
+    {
+      "ranking": 102,
+      "ranking2022": "100",
+      "ranking2021": "101",
+      "name": "Yumemi Okazaki",
+      "points": "767",
+      "nr1votes": "77",
+      "comments": "150",
+      "fanworks": 1
+    },
+    {
+      "ranking": 102,
+      "ranking2022": "117",
+      "ranking2021": "108",
+      "name": "Seiran",
+      "points": "767",
+      "nr1votes": "55",
+      "comments": "177",
+      "fanworks": 5
+    },
+    {
+      "ranking": 104,
+      "ranking2022": "98",
+      "ranking2021": "99",
+      "name": "Shou Toramaru",
+      "points": "746",
+      "nr1votes": "81",
+      "comments": "172",
+      "fanworks": 4
+    },
+    {
+      "ranking": 105,
+      "ranking2022": "97",
+      "ranking2021": "97",
+      "name": "Wakasagihime",
+      "points": "692",
+      "nr1votes": "74",
+      "comments": "153",
+      "fanworks": 2
+    },
+    {
+      "ranking": 106,
+      "ranking2022": "101",
+      "ranking2021": "103",
+      "name": "Letty Whiterock",
+      "points": "689",
+      "nr1votes": "83",
+      "comments": "154",
+      "fanworks": 4
+    },
+    {
+      "ranking": 107,
+      "ranking2022": "94",
+      "ranking2021": "77",
+      "name": "Mayumi Joutouguu",
+      "points": "639",
+      "nr1votes": "60",
+      "comments": "132",
+      "fanworks": 2
+    },
+    {
+      "ranking": 108,
+      "ranking2022": "110",
+      "ranking2021": "114",
+      "name": "Star Sapphire",
+      "points": "624",
+      "nr1votes": "71",
+      "comments": "141",
+      "fanworks": 25
+    },
+    {
+      "ranking": 109,
+      "ranking2022": "143",
+      "ranking2021": "138",
+      "name": "Sannyo Komakusa",
+      "points": "615",
+      "nr1votes": "216",
+      "comments": "245",
+      "fanworks": 1
+    },
+    {
+      "ranking": 110,
+      "ranking2022": "105",
+      "ranking2021": "102",
+      "name": "Kyouko Kasodani",
+      "points": "606",
+      "nr1votes": "64",
+      "comments": "114",
+      "fanworks": 1
+    },
+    {
+      "ranking": 111,
+      "ranking2022": "111",
+      "ranking2021": "110",
+      "name": "Luna Child",
+      "points": "604",
+      "nr1votes": "45",
+      "comments": "103",
+      "fanworks": 2
+    },
+    {
+      "ranking": 112,
+      "ranking2022": "102",
+      "ranking2021": "104",
+      "name": "Yamame Kurodani",
+      "points": "576",
+      "nr1votes": "61",
+      "comments": "114",
+      "fanworks": 4
+    },
+    {
+      "ranking": 113,
+      "ranking2022": "109",
+      "ranking2021": "111",
+      "name": "Merlin Prismriver",
+      "points": "559",
+      "nr1votes": "41",
+      "comments": "129",
+      "fanworks": 6
+    },
+    {
+      "ranking": 114,
+      "ranking2022": "103",
+      "ranking2021": "100",
+      "name": "Mai Teireida",
+      "points": "530",
+      "nr1votes": "52",
+      "comments": "100",
+      "fanworks": 5
+    },
+    {
+      "ranking": 115,
+      "ranking2022": "108",
+      "ranking2021": "107",
+      "name": "Watatsuki no Toyohime",
+      "points": "522",
+      "nr1votes": "52",
+      "comments": "99",
+      "fanworks": 2
+    },
+    {
+      "ranking": 116,
+      "ranking2022": "106",
+      "ranking2021": "89",
+      "name": "Mike Goutokuji",
+      "points": "505",
+      "nr1votes": "22",
+      "comments": "106",
+      "fanworks": 1
+    },
+    {
+      "ranking": 117,
+      "ranking2022": "115",
+      "ranking2021": "116",
+      "name": "Alice's Dolls (Shanghai, Hourai, Ooedo, etc.)",
+      "points": "476",
+      "nr1votes": "16",
+      "comments": "123",
+      "fanworks": 0
+    },
+    {
+      "ranking": 118,
+      "ranking2022": "104",
+      "ranking2021": "109",
+      "name": "Unnamed Jinyou (Fortune Teller)",
+      "points": "472",
+      "nr1votes": "40",
+      "comments": "133",
+      "fanworks": 2
+    },
+    {
+      "ranking": 118,
+      "ranking2022": "114",
+      "ranking2021": "113",
+      "name": "Gengetsu",
+      "points": "472",
+      "nr1votes": "35",
+      "comments": "105",
+      "fanworks": 6
+    },
+    {
+      "ranking": 120,
+      "ranking2022": "119",
+      "ranking2021": "117",
+      "name": "Lyrica Prismriver",
+      "points": "471",
+      "nr1votes": "34",
+      "comments": "95",
+      "fanworks": 4
+    },
+    {
+      "ranking": 121,
+      "ranking2022": "120",
+      "ranking2021": "120",
+      "name": "Sunny Milk",
+      "points": "465",
+      "nr1votes": "34",
+      "comments": "79",
+      "fanworks": 5
+    },
+    {
+      "ranking": 122,
+      "ranking2022": "118",
+      "ranking2021": "118",
+      "name": "Unnamed Book-Reading Youkai (Tokiko)",
+      "points": "448",
+      "nr1votes": "49",
+      "comments": "101",
+      "fanworks": 3
+    },
+    {
+      "ranking": 123,
+      "ranking2022": "116",
+      "ranking2021": "115",
+      "name": "Benben Tsukumo",
+      "points": "439",
+      "nr1votes": "39",
+      "comments": "87",
+      "fanworks": 4
+    },
+    {
+      "ranking": 124,
+      "ranking2022": "113",
+      "ranking2021": "112",
+      "name": "Ichirin Kumoi",
+      "points": "438",
+      "nr1votes": "58",
+      "comments": "77",
+      "fanworks": 1
+    },
+    {
+      "ranking": 125,
+      "ranking2022": "107",
+      "ranking2021": "105",
+      "name": "Satono Nishida",
+      "points": "398",
+      "nr1votes": "14",
+      "comments": "69",
+      "fanworks": 3
+    },
+    {
+      "ranking": 126,
+      "ranking2022": "126",
+      "ranking2021": "128",
+      "name": "Dolls in Pseudo Paradise CD Jacket Girl",
+      "points": "396",
+      "nr1votes": "47",
+      "comments": "89",
+      "fanworks": 3
+    },
+    {
+      "ranking": 127,
+      "ranking2022": "125",
+      "ranking2021": "123",
+      "name": "Rei'sen",
+      "points": "389",
+      "nr1votes": "31",
+      "comments": "81",
+      "fanworks": 0
+    },
+    {
+      "ranking": 128,
+      "ranking2022": "112",
+      "ranking2021": "121",
+      "name": "Eternity Larva",
+      "points": "383",
+      "nr1votes": "25",
+      "comments": "88",
+      "fanworks": 1
+    },
+    {
+      "ranking": 129,
+      "ranking2022": "121",
+      "ranking2021": "122",
+      "name": "Ringo",
+      "points": "361",
+      "nr1votes": "21",
+      "comments": "87",
+      "fanworks": 2
+    },
+    {
+      "ranking": 130,
+      "ranking2022": "127",
+      "ranking2021": "126",
+      "name": "Kana Anaberal",
+      "points": "322",
+      "nr1votes": "27",
+      "comments": "82",
+      "fanworks": 4
+    },
+    {
+      "ranking": 131,
+      "ranking2022": "124",
+      "ranking2021": "125",
+      "name": "Narumi Yatadera",
+      "points": "303",
+      "nr1votes": "17",
+      "comments": "65",
+      "fanworks": 2
+    },
+    {
+      "ranking": 132,
+      "ranking2022": "129",
+      "ranking2021": "133",
+      "name": "Sariel",
+      "points": "299",
+      "nr1votes": "26",
+      "comments": "60",
+      "fanworks": 3
+    },
+    {
+      "ranking": 133,
+      "ranking2022": "132",
+      "ranking2021": "129",
+      "name": "Yumeko",
+      "points": "288",
+      "nr1votes": "9",
+      "comments": "59",
+      "fanworks": 2
+    },
+    {
+      "ranking": 134,
+      "ranking2022": "128",
+      "ranking2021": "127",
+      "name": "Mugetsu",
+      "points": "267",
+      "nr1votes": "16",
+      "comments": "67",
+      "fanworks": 0
+    },
+    {
+      "ranking": 135,
+      "ranking2022": "130",
+      "ranking2021": "124",
+      "name": "Yatsuhashi Tsukumo",
+      "points": "254",
+      "nr1votes": "24",
+      "comments": "58",
+      "fanworks": 3
+    },
+    {
+      "ranking": 136,
+      "ranking2022": "137",
+      "ranking2021": "-",
+      "name": "Mizuchi Miyadeguchi",
+      "points": "249",
+      "nr1votes": "16",
+      "comments": "77",
+      "fanworks": 4
+    },
+    {
+      "ranking": 137,
+      "ranking2022": "131",
+      "ranking2021": "137",
+      "name": "Kisume",
+      "points": "239",
+      "nr1votes": "29",
+      "comments": "48",
+      "fanworks": 0
+    },
+    {
+      "ranking": 137,
+      "ranking2022": "133",
+      "ranking2021": "130",
+      "name": "Anxious Moustached Villager",
+      "points": "239",
+      "nr1votes": "10",
+      "comments": "64",
+      "fanworks": 0
+    },
+    {
+      "ranking": 139,
+      "ranking2022": "122",
+      "ranking2021": "119",
+      "name": "Takane Yamashiro",
+      "points": "237",
+      "nr1votes": "22",
+      "comments": "43",
+      "fanworks": 1
+    },
+    {
+      "ranking": 140,
+      "ranking2022": "123",
+      "ranking2021": "106",
+      "name": "Misumaru Tamatsukuri",
+      "points": "230",
+      "nr1votes": "12",
+      "comments": "58",
+      "fanworks": 0
+    },
+    {
+      "ranking": 140,
+      "ranking2022": "135",
+      "ranking2021": "131",
+      "name": "Kurumi",
+      "points": "230",
+      "nr1votes": "23",
+      "comments": "55",
+      "fanworks": 1
+    },
+    {
+      "ranking": 142,
+      "ranking2022": "139",
+      "ranking2021": "135",
+      "name": "Chiyuri Kitashirakawa",
+      "points": "216",
+      "nr1votes": "17",
+      "comments": "57",
+      "fanworks": 2
+    },
+    {
+      "ranking": 143,
+      "ranking2022": "136",
+      "ranking2021": "132",
+      "name": "Youki Konpaku",
+      "points": "215",
+      "nr1votes": "7",
+      "comments": "49",
+      "fanworks": 0
+    },
+    {
+      "ranking": 143,
+      "ranking2022": "134",
+      "ranking2021": "143",
+      "name": "Eika Ebisu",
+      "points": "215",
+      "nr1votes": "17",
+      "comments": "50",
+      "fanworks": 0
+    },
+    {
+      "ranking": 145,
+      "ranking2022": "148",
+      "ranking2021": "144",
+      "name": "Elis",
+      "points": "191",
+      "nr1votes": "20",
+      "comments": "40",
+      "fanworks": 2
+    },
+    {
+      "ranking": 146,
+      "ranking2022": "150",
+      "ranking2021": "141",
+      "name": "Ellen",
+      "points": "179",
+      "nr1votes": "16",
+      "comments": "39",
+      "fanworks": 6
+    },
+    {
+      "ranking": 147,
+      "ranking2022": "140",
+      "ranking2021": "136",
+      "name": "Urumi Ushizaki",
+      "points": "176",
+      "nr1votes": "14",
+      "comments": "35",
+      "fanworks": 3
+    },
+    {
+      "ranking": 148,
+      "ranking2022": "141",
+      "ranking2021": "134",
+      "name": "Nemuno Sakata",
+      "points": "174",
+      "nr1votes": "11",
+      "comments": "46",
+      "fanworks": 0
+    },
+    {
+      "ranking": 149,
+      "ranking2022": "141",
+      "ranking2021": "153",
+      "name": "Kotohime",
+      "points": "172",
+      "nr1votes": "23",
+      "comments": "36",
+      "fanworks": 1
+    },
+    {
+      "ranking": 150,
+      "ranking2022": "144",
+      "ranking2021": "142",
+      "name": "Konngara",
+      "points": "167",
+      "nr1votes": "17",
+      "comments": "46",
+      "fanworks": 1
+    },
+    {
+      "ranking": 151,
+      "ranking2022": "152",
+      "ranking2021": "149",
+      "name": "Kasen's arm",
+      "points": "166",
+      "nr1votes": "0",
+      "comments": "38",
+      "fanworks": 4
+    },
+    {
+      "ranking": 152,
+      "ranking2022": "145",
+      "ranking2021": "139",
+      "name": "Kedama",
+      "points": "164",
+      "nr1votes": "8",
+      "comments": "40",
+      "fanworks": 0
+    },
+    {
+      "ranking": 153,
+      "ranking2022": "148",
+      "ranking2021": "148",
+      "name": "Otter Spirit",
+      "points": "163",
+      "nr1votes": "4",
+      "comments": "49",
+      "fanworks": 1
+    },
+    {
+      "ranking": 154,
+      "ranking2022": "151",
+      "ranking2021": "146",
+      "name": "Elly",
+      "points": "158",
+      "nr1votes": "15",
+      "comments": "36",
+      "fanworks": 0
+    },
+    {
+      "ranking": 155,
+      "ranking2022": "159",
+      "ranking2021": "157",
+      "name": "Meira",
+      "points": "154",
+      "nr1votes": "28",
+      "comments": "36",
+      "fanworks": 1
+    },
+    {
+      "ranking": 156,
+      "ranking2022": "146",
+      "ranking2021": "139",
+      "name": "Unzan",
+      "points": "149",
+      "nr1votes": "6",
+      "comments": "42",
+      "fanworks": 0
+    },
+    {
+      "ranking": 157,
+      "ranking2022": "147",
+      "ranking2021": "145",
+      "name": "Mai",
+      "points": "147",
+      "nr1votes": "12",
+      "comments": "36",
+      "fanworks": 3
+    },
+    {
+      "ranking": 158,
+      "ranking2022": "154",
+      "ranking2021": "150",
+      "name": "Giant Catfish",
+      "points": "125",
+      "nr1votes": "18",
+      "comments": "33",
+      "fanworks": 0
+    },
+    {
+      "ranking": 158,
+      "ranking2022": "158",
+      "ranking2021": "154",
+      "name": "Dolls in Pseudo Paradise CD Label Girl",
+      "points": "125",
+      "nr1votes": "1",
+      "comments": "36",
+      "fanworks": 3
+    },
+    {
+      "ranking": 160,
+      "ranking2022": "157",
+      "ranking2021": "158",
+      "name": "Layla Prismriver",
+      "points": "121",
+      "nr1votes": "11",
+      "comments": "34",
+      "fanworks": 1
+    },
+    {
+      "ranking": 161,
+      "ranking2022": "155",
+      "ranking2021": "151",
+      "name": "Ruukoto",
+      "points": "119",
+      "nr1votes": "8",
+      "comments": "29",
+      "fanworks": 0
+    },
+    {
+      "ranking": 162,
+      "ranking2022": "153",
+      "ranking2021": "146",
+      "name": "Yuki",
+      "points": "117",
+      "nr1votes": "9",
+      "comments": "34",
+      "fanworks": 2
+    },
+    {
+      "ranking": 163,
+      "ranking2022": "156",
+      "ranking2021": "155",
+      "name": "Rika",
+      "points": "109",
+      "nr1votes": "14",
+      "comments": "25",
+      "fanworks": 5
+    },
+    {
+      "ranking": 164,
+      "ranking2022": "160",
+      "ranking2021": "161",
+      "name": "Rikako Asakura",
+      "points": "95",
+      "nr1votes": "6",
+      "comments": "25",
+      "fanworks": 0
+    },
+    {
+      "ranking": 165,
+      "ranking2022": "162",
+      "ranking2021": "152",
+      "name": "UFO tokens",
+      "points": "92",
+      "nr1votes": "3",
+      "comments": "34",
+      "fanworks": 0
+    },
+    {
+      "ranking": 166,
+      "ranking2022": "175",
+      "ranking2021": "159",
+      "name": "Fairy (Maid, Sunflower, etc.)",
+      "points": "86",
+      "nr1votes": "4",
+      "comments": "30",
+      "fanworks": 2
+    },
+    {
+      "ranking": 167,
+      "ranking2022": "168",
+      "ranking2021": "160",
+      "name": "Genjii",
+      "points": "81",
+      "nr1votes": "6",
+      "comments": "20",
+      "fanworks": 0
+    },
+    {
+      "ranking": 168,
+      "ranking2022": "161",
+      "ranking2021": "162",
+      "name": "Thermonuclear Deity Hisou Tensoku",
+      "points": "77",
+      "nr1votes": "7",
+      "comments": "21",
+      "fanworks": 0
+    },
+    {
+      "ranking": 168,
+      "ranking2022": "137",
+      "ranking2021": "165",
+      "name": "Louise",
+      "points": "77",
+      "nr1votes": "8",
+      "comments": "15",
+      "fanworks": 1
+    },
+    {
+      "ranking": 170,
+      "ranking2022": "165",
+      "ranking2021": "162",
+      "name": "YuugenMagan",
+      "points": "75",
+      "nr1votes": "4",
+      "comments": "23",
+      "fanworks": 0
+    },
+    {
+      "ranking": 170,
+      "ranking2022": "181",
+      "ranking2021": "174",
+      "name": "Sara",
+      "points": "75",
+      "nr1votes": "6",
+      "comments": "21",
+      "fanworks": 1
+    },
+    {
+      "ranking": 172,
+      "ranking2022": "171",
+      "ranking2021": "169",
+      "name": "Mimi-chan",
+      "points": "71",
+      "nr1votes": "3",
+      "comments": "20",
+      "fanworks": 0
+    },
+    {
+      "ranking": 173,
+      "ranking2022": "163",
+      "ranking2021": "156",
+      "name": "PC-98 unnamed midbosses",
+      "points": "70",
+      "nr1votes": "3",
+      "comments": "21",
+      "fanworks": 1
+    },
+    {
+      "ranking": 174,
+      "ranking2022": "167",
+      "ranking2021": "166",
+      "name": "SinGyoku",
+      "points": "69",
+      "nr1votes": "9",
+      "comments": "26",
+      "fanworks": 1
+    },
+    {
+      "ranking": 175,
+      "ranking2022": "169",
+      "ranking2021": "173",
+      "name": "Crows (Hell ravens, Yukari and Aya's familiars, etc.)",
+      "points": "61",
+      "nr1votes": "4",
+      "comments": "11",
+      "fanworks": 0
+    },
+    {
+      "ranking": 176,
+      "ranking2022": "179",
+      "ranking2021": "171",
+      "name": "Tupai",
+      "points": "58",
+      "nr1votes": "2",
+      "comments": "16",
+      "fanworks": 0
+    },
+    {
+      "ranking": 177,
+      "ranking2022": "166",
+      "ranking2021": "168",
+      "name": "Tsuchinoko",
+      "points": "57",
+      "nr1votes": "1",
+      "comments": "10",
+      "fanworks": 0
+    },
+    {
+      "ranking": 178,
+      "ranking2022": "173",
+      "ranking2021": "166",
+      "name": "Orange",
+      "points": "55",
+      "nr1votes": "3",
+      "comments": "15",
+      "fanworks": 0
+    },
+    {
+      "ranking": 179,
+      "ranking2022": "172",
+      "ranking2021": "164",
+      "name": "Chang'e",
+      "points": "53",
+      "nr1votes": "4",
+      "comments": "15",
+      "fanworks": 0
+    },
+    {
+      "ranking": 180,
+      "ranking2022": "163",
+      "ranking2021": "170",
+      "name": "Nameemon (Kosuzu's stuffed slug)",
+      "points": "51",
+      "nr1votes": "2",
+      "comments": "19",
+      "fanworks": 0
+    },
+    {
+      "ranking": 181,
+      "ranking2022": "-",
+      "ranking2021": "-",
+      "name": "Geidontei Regulars",
+      "points": "50",
+      "nr1votes": "2",
+      "comments": "24",
+      "fanworks": 0
+    },
+    {
+      "ranking": 182,
+      "ranking2022": "177",
+      "ranking2021": "176",
+      "name": "Kasen's animals (Kume, Kanda, Raijuu, Houso, Jinkenmen, etc.)",
+      "points": "49",
+      "nr1votes": "0",
+      "comments": "9",
+      "fanworks": 0
+    },
+    {
+      "ranking": 183,
+      "ranking2022": "177",
+      "ranking2021": "176",
+      "name": "Wolf Spirit",
+      "points": "48",
+      "nr1votes": "1",
+      "comments": "15",
+      "fanworks": 0
+    },
+    {
+      "ranking": 183,
+      "ranking2022": "176",
+      "ranking2021": "175",
+      "name": "Kikuri",
+      "points": "48",
+      "nr1votes": "5",
+      "comments": "13",
+      "fanworks": 1
+    },
+    {
+      "ranking": 185,
+      "ranking2022": "180",
+      "ranking2021": "179",
+      "name": "Kappa (including yamawaro)",
+      "points": "44",
+      "nr1votes": "1",
+      "comments": "6",
+      "fanworks": 0
+    },
+    {
+      "ranking": 185,
+      "ranking2022": "181",
+      "ranking2021": "172",
+      "name": "Eagle Spirit",
+      "points": "44",
+      "nr1votes": "3",
+      "comments": "14",
+      "fanworks": 0
+    },
+    {
+      "ranking": 187,
+      "ranking2022": "181",
+      "ranking2021": "179",
+      "name": "Rabbits (Moon rabbits, Eientei youkai rabbits, etc.)",
+      "points": "41",
+      "nr1votes": "1",
+      "comments": "12",
+      "fanworks": 0
+    },
+    {
+      "ranking": 188,
+      "ranking2022": "187",
+      "ranking2021": "182",
+      "name": "Kitsune (Youkai kitsune, Unnamed fox student, etc.)",
+      "points": "37",
+      "nr1votes": "1",
+      "comments": "18",
+      "fanworks": 0
+    },
+    {
+      "ranking": 189,
+      "ranking2022": "181",
+      "ranking2021": "179",
+      "name": "Misc. Human Villagers (BAiJR, PMiSS, SoPM, FS, etc.)",
+      "points": "36",
+      "nr1votes": "3",
+      "comments": "15",
+      "fanworks": 0
+    },
+    {
+      "ranking": 190,
+      "ranking2022": "191",
+      "ranking2021": "185",
+      "name": "Hobgoblin",
+      "points": "31",
+      "nr1votes": "1",
+      "comments": "9",
+      "fanworks": 0
+    },
+    {
+      "ranking": 191,
+      "ranking2022": "-",
+      "ranking2021": "-",
+      "name": "Laika",
+      "points": "28",
+      "nr1votes": "3",
+      "comments": "9",
+      "fanworks": 1
+    },
+    {
+      "ranking": 191,
+      "ranking2022": "185",
+      "ranking2021": "178",
+      "name": "Dragons (Dragon child, Unnamed evil dragon, etc.)",
+      "points": "28",
+      "nr1votes": "0",
+      "comments": "13",
+      "fanworks": 0
+    },
+    {
+      "ranking": 193,
+      "ranking2022": "200",
+      "ranking2021": "193",
+      "name": "Ghosts (including vengeful spirits, divine spirits, bakebake)",
+      "points": "27",
+      "nr1votes": "3",
+      "comments": "10",
+      "fanworks": 0
+    },
+    {
+      "ranking": 194,
+      "ranking2022": "174",
+      "ranking2021": "184",
+      "name": "Urban Legends (Okiku-san, Hasshaku-sama)",
+      "points": "25",
+      "nr1votes": "0",
+      "comments": "10",
+      "fanworks": 0
+    },
+    {
+      "ranking": 195,
+      "ranking2022": "190",
+      "ranking2021": "189",
+      "name": "Manzairaku",
+      "points": "23",
+      "nr1votes": "2",
+      "comments": "9",
+      "fanworks": 0
+    },
+    {
+      "ranking": 196,
+      "ranking2022": "195",
+      "ranking2021": "191",
+      "name": "Konohana-Sakuyahime",
+      "points": "21",
+      "nr1votes": "1",
+      "comments": "3",
+      "fanworks": 0
+    },
+    {
+      "ranking": 197,
+      "ranking2022": "-",
+      "ranking2021": "-",
+      "name": "Geidontei Owner",
+      "points": "20",
+      "nr1votes": "1",
+      "comments": "8",
+      "fanworks": 0
+    },
+    {
+      "ranking": 198,
+      "ranking2022": "189",
+      "ranking2021": "182",
+      "name": "Sake Bug",
+      "points": "19",
+      "nr1votes": "0",
+      "comments": "8",
+      "fanworks": 0
+    },
+    {
+      "ranking": 198,
+      "ranking2022": "193",
+      "ranking2021": "189",
+      "name": "Myouren",
+      "points": "19",
+      "nr1votes": "0",
+      "comments": "4",
+      "fanworks": 0
+    },
+    {
+      "ranking": 198,
+      "ranking2022": "205",
+      "ranking2021": "198",
+      "name": "Kosuzu Motoori's parents",
+      "points": "19",
+      "nr1votes": "1",
+      "comments": "5",
+      "fanworks": 0
+    },
+    {
+      "ranking": 201,
+      "ranking2022": "187",
+      "ranking2021": "187",
+      "name": "Unshou",
+      "points": "18",
+      "nr1votes": "1",
+      "comments": "8",
+      "fanworks": 0
+    },
+    {
+      "ranking": 201,
+      "ranking2022": "198",
+      "ranking2021": "197",
+      "name": "Unnamed Snake Youkai",
+      "points": "18",
+      "nr1votes": "0",
+      "comments": "3",
+      "fanworks": 0
+    },
+    {
+      "ranking": 201,
+      "ranking2022": "186",
+      "ranking2021": "186",
+      "name": "Kesaran-pesaran",
+      "points": "18",
+      "nr1votes": "0",
+      "comments": "4",
+      "fanworks": 0
+    },
+    {
+      "ranking": 204,
+      "ranking2022": "194",
+      "ranking2021": "192",
+      "name": "Summoned Gods (Amaterasu, Izunome, etc.)",
+      "points": "17",
+      "nr1votes": "2",
+      "comments": "2",
+      "fanworks": 0
+    },
+    {
+      "ranking": 205,
+      "ranking2022": "201",
+      "ranking2021": "194",
+      "name": "Salt Merchant",
+      "points": "14",
+      "nr1votes": "0",
+      "comments": "3",
+      "fanworks": 0
+    },
+    {
+      "ranking": 206,
+      "ranking2022": "191",
+      "ranking2021": "188",
+      "name": "Tengu (Kourindou Tengu, Great Tengu, etc.)",
+      "points": "13",
+      "nr1votes": "0",
+      "comments": "1",
+      "fanworks": 0
+    },
+    {
+      "ranking": 207,
+      "ranking2022": "198",
+      "ranking2021": "202",
+      "name": "Tanuki (Bake-danuki, Noteppou, etc.)",
+      "points": "12",
+      "nr1votes": "0",
+      "comments": "4",
+      "fanworks": 0
+    },
+    {
+      "ranking": 207,
+      "ranking2022": "197",
+      "ranking2021": "198",
+      "name": "Shirou Sendai",
+      "points": "12",
+      "nr1votes": "0",
+      "comments": "3",
+      "fanworks": 0
+    },
+    {
+      "ranking": 207,
+      "ranking2022": "202",
+      "ranking2021": "194",
+      "name": "Moon Capital Gate Guards",
+      "points": "12",
+      "nr1votes": "0",
+      "comments": "5",
+      "fanworks": 0
+    },
+    {
+      "ranking": 207,
+      "ranking2022": "208",
+      "ranking2021": "203",
+      "name": "Kutsutsura",
+      "points": "12",
+      "nr1votes": "0",
+      "comments": "1",
+      "fanworks": 0
+    },
+    {
+      "ranking": 211,
+      "ranking2022": "204",
+      "ranking2021": "194",
+      "name": "Iwakasa",
+      "points": "11",
+      "nr1votes": "1",
+      "comments": "5",
+      "fanworks": 0
+    },
+    {
+      "ranking": 212,
+      "ranking2022": "170",
+      "ranking2021": "198",
+      "name": "Unnamed Dormouse (Yamane)",
+      "points": "10",
+      "nr1votes": "1",
+      "comments": "3",
+      "fanworks": 0
+    },
+    {
+      "ranking": 212,
+      "ranking2022": "195",
+      "ranking2021": "198",
+      "name": "Bishamonten",
+      "points": "10",
+      "nr1votes": "0",
+      "comments": "3",
+      "fanworks": 0
+    },
+    {
+      "ranking": 214,
+      "ranking2022": "202",
+      "ranking2021": "206",
+      "name": "Zashiki-warashi",
+      "points": "6",
+      "nr1votes": "0",
+      "comments": "0",
+      "fanworks": 0
+    },
+    {
+      "ranking": 214,
+      "ranking2022": "207",
+      "ranking2021": "205",
+      "name": "Enenra",
+      "points": "6",
+      "nr1votes": "0",
+      "comments": "2",
+      "fanworks": 0
+    },
+    {
+      "ranking": 216,
+      "ranking2022": "206",
+      "ranking2021": "204",
+      "name": "Mizue no Uranoshimako",
+      "points": "5",
+      "nr1votes": "1",
+      "comments": "0",
+      "fanworks": 0
+    }
+   ]
