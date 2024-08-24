@@ -1,0 +1,2172 @@
+[
+  {
+    "ranking": 1,
+    "rankinglast": 2,
+    "rankingbeforelast": 3,
+    "name": "Reimu Hakurei",
+    "points": 21959,
+    "nr1votes": 4301,
+    "comments": 3890,
+    "fanworks": 57
+  },
+  {
+    "ranking": 2,
+    "rankinglast": 1,
+    "rankingbeforelast": 2,
+    "name": "Marisa Kirisame",
+    "points": 20249,
+    "nr1votes": 4062,
+    "comments": 4449,
+    "fanworks": 42
+  },
+  {
+    "ranking": 3,
+    "rankinglast": 3,
+    "rankingbeforelast": 1,
+    "name": "Flandre Scarlet",
+    "points": 17324,
+    "nr1votes": 3723,
+    "comments": 4048,
+    "fanworks": 32
+  },
+  {
+    "ranking": 4,
+    "rankinglast": 4,
+    "rankingbeforelast": 6,
+    "name": "Koishi Komeiji",
+    "points": 16273,
+    "nr1votes": 3334,
+    "comments": 3462,
+    "fanworks": 32
+  },
+  {
+    "ranking": 5,
+    "rankinglast": 5,
+    "rankingbeforelast": 4,
+    "name": "Youmu Konpaku",
+    "points": 14445,
+    "nr1votes": 3083,
+    "comments": 3170,
+    "fanworks": 23
+  },
+  {
+    "ranking": 6,
+    "rankinglast": 6,
+    "rankingbeforelast": 5,
+    "name": "Sakuya Izayoi",
+    "points": 14437,
+    "nr1votes": 2535,
+    "comments": 3206,
+    "fanworks": 9
+  },
+  {
+    "ranking": 7,
+    "rankinglast": 7,
+    "rankingbeforelast": 7,
+    "name": "Remilia Scarlet",
+    "points": 13785,
+    "nr1votes": 2207,
+    "comments": 3029,
+    "fanworks": 24
+  },
+  {
+    "ranking": 8,
+    "rankinglast": 9,
+    "rankingbeforelast": 9,
+    "name": "Satori Komeiji",
+    "points": 9921,
+    "nr1votes": 1305,
+    "comments": 1982,
+    "fanworks": 10
+  },
+  {
+    "ranking": 9,
+    "rankinglast": 8,
+    "rankingbeforelast": 8,
+    "name": "Fujiwara no Mokou",
+    "points": 9377,
+    "nr1votes": 1641,
+    "comments": 2059,
+    "fanworks": 16
+  },
+  {
+    "ranking": 10,
+    "rankinglast": 15,
+    "rankingbeforelast": 15,
+    "name": "Cirno",
+    "points": 8159,
+    "nr1votes": 1335,
+    "comments": 2081,
+    "fanworks": 13
+  },
+  {
+    "ranking": 11,
+    "rankinglast": 10,
+    "rankingbeforelast": 10,
+    "name": "Yuyuko Saigyouji",
+    "points": 7973,
+    "nr1votes": 1156,
+    "comments": 1603,
+    "fanworks": 6
+  },
+  {
+    "ranking": 12,
+    "rankinglast": 11,
+    "rankingbeforelast": 11,
+    "name": "Alice Margatroid",
+    "points": 7417,
+    "nr1votes": 1055,
+    "comments": 1372,
+    "fanworks": 17
+  },
+  {
+    "ranking": 13,
+    "rankinglast": 13,
+    "rankingbeforelast": 12,
+    "name": "Aya Shameimaru",
+    "points": 7235,
+    "nr1votes": 1082,
+    "comments": 1389,
+    "fanworks": 9
+  },
+  {
+    "ranking": 14,
+    "rankinglast": 12,
+    "rankingbeforelast": 14,
+    "name": "Sanae Kochiya",
+    "points": 6762,
+    "nr1votes": 986,
+    "comments": 1269,
+    "fanworks": 14
+  },
+  {
+    "ranking": 15,
+    "rankinglast": 14,
+    "rankingbeforelast": 13,
+    "name": "Reisen Udongein Inaba",
+    "points": 6491,
+    "nr1votes": 832,
+    "comments": 1231,
+    "fanworks": 11
+  },
+  {
+    "ranking": 16,
+    "rankinglast": 16,
+    "rankingbeforelast": 16,
+    "name": "Yukari Yakumo",
+    "points": 5996,
+    "nr1votes": 736,
+    "comments": 1174,
+    "fanworks": 3
+  },
+  {
+    "ranking": 17,
+    "rankinglast": 18,
+    "rankingbeforelast": 19,
+    "name": "Patchouli Knowledge",
+    "points": 5559,
+    "nr1votes": 739,
+    "comments": 1020,
+    "fanworks": 7
+  },
+  {
+    "ranking": 18,
+    "rankinglast": 23,
+    "rankingbeforelast": 22,
+    "name": "Hong Meiling",
+    "points": 5302,
+    "nr1votes": 668,
+    "comments": 1141,
+    "fanworks": 6
+  },
+  {
+    "ranking": 19,
+    "rankinglast": 21,
+    "rankingbeforelast": 21,
+    "name": "Hata no Kokoro",
+    "points": 5235,
+    "nr1votes": 778,
+    "comments": 1051,
+    "fanworks": 2
+  },
+  {
+    "ranking": 20,
+    "rankinglast": 17,
+    "rankingbeforelast": 18,
+    "name": "Tenshi Hinanawi",
+    "points": 5207,
+    "nr1votes": 888,
+    "comments": 918,
+    "fanworks": 8
+  },
+  {
+    "ranking": 21,
+    "rankinglast": 19,
+    "rankingbeforelast": 17,
+    "name": "Rumia",
+    "points": 5152,
+    "nr1votes": 758,
+    "comments": 1204,
+    "fanworks": 20
+  },
+  {
+    "ranking": 22,
+    "rankinglast": 20,
+    "rankingbeforelast": 20,
+    "name": "Suwako Moriya",
+    "points": 4914,
+    "nr1votes": 735,
+    "comments": 1050,
+    "fanworks": 7
+  },
+  {
+    "ranking": 23,
+    "rankinglast": 22,
+    "rankingbeforelast": 25,
+    "name": "Kogasa Tatara",
+    "points": 4806,
+    "nr1votes": 671,
+    "comments": 1015,
+    "fanworks": 10
+  },
+  {
+    "ranking": 24,
+    "rankinglast": 26,
+    "rankingbeforelast": 26,
+    "name": "Yuuka Kazami",
+    "points": 4288,
+    "nr1votes": 611,
+    "comments": 774,
+    "fanworks": 2
+  },
+  {
+    "ranking": 25,
+    "rankinglast": 25,
+    "rankingbeforelast": 23,
+    "name": "Eiki Shiki, Yamaxanadu",
+    "points": 4151,
+    "nr1votes": 548,
+    "comments": 772,
+    "fanworks": 3
+  },
+  {
+    "ranking": 26,
+    "rankinglast": 28,
+    "rankingbeforelast": 28,
+    "name": "Junko",
+    "points": 3716,
+    "nr1votes": 440,
+    "comments": 719,
+    "fanworks": 11
+  },
+  {
+    "ranking": 27,
+    "rankinglast": 30,
+    "rankingbeforelast": 31,
+    "name": "Suika Ibuki",
+    "points": 3715,
+    "nr1votes": 475,
+    "comments": 681,
+    "fanworks": 8
+  },
+  {
+    "ranking": 28,
+    "rankinglast": 27,
+    "rankingbeforelast": 24,
+    "name": "Momiji Inubashiri",
+    "points": 3695,
+    "nr1votes": 557,
+    "comments": 766,
+    "fanworks": 5
+  },
+  {
+    "ranking": 29,
+    "rankinglast": 24,
+    "rankingbeforelast": 34,
+    "name": "Ran Yakumo",
+    "points": 3635,
+    "nr1votes": 479,
+    "comments": 724,
+    "fanworks": 5
+  },
+  {
+    "ranking": 30,
+    "rankinglast": 34,
+    "rankingbeforelast": 40,
+    "name": "Kaguya Houraisan",
+    "points": 3519,
+    "nr1votes": 394,
+    "comments": 617,
+    "fanworks": 5
+  },
+  {
+    "ranking": 31,
+    "rankinglast": 33,
+    "rankingbeforelast": 36,
+    "name": "Utsuho Reiuji",
+    "points": 3463,
+    "nr1votes": 502,
+    "comments": 721,
+    "fanworks": 3
+  },
+  {
+    "ranking": 32,
+    "rankinglast": 32,
+    "rankingbeforelast": 30,
+    "name": "Shion Yorigami",
+    "points": 3372,
+    "nr1votes": 443,
+    "comments": 640,
+    "fanworks": 3
+  },
+  {
+    "ranking": 33,
+    "rankinglast": 31,
+    "rankingbeforelast": 27,
+    "name": "Toyosatomimi no Miko",
+    "points": 3305,
+    "nr1votes": 516,
+    "comments": 624,
+    "fanworks": 7
+  },
+  {
+    "ranking": 34,
+    "rankinglast": 41,
+    "rankingbeforelast": 41,
+    "name": "Renko Usami",
+    "points": 3220,
+    "nr1votes": 356,
+    "comments": 577,
+    "fanworks": 4
+  },
+  {
+    "ranking": 35,
+    "rankinglast": 35,
+    "rankingbeforelast": 32,
+    "name": "Seija Kijin",
+    "points": 3174,
+    "nr1votes": 549,
+    "comments": 626,
+    "fanworks": 7
+  },
+  {
+    "ranking": 36,
+    "rankinglast": 37,
+    "rankingbeforelast": 38,
+    "name": "Parsee Mizuhashi",
+    "points": 3144,
+    "nr1votes": 456,
+    "comments": 625,
+    "fanworks": 7
+  },
+  {
+    "ranking": 37,
+    "rankinglast": 53,
+    "rankingbeforelast": 46,
+    "name": "Eirin Yagokoro",
+    "points": 3100,
+    "nr1votes": 250,
+    "comments": 940,
+    "fanworks": 13
+  },
+  {
+    "ranking": 38,
+    "rankinglast": 38,
+    "rankingbeforelast": 29,
+    "name": "Hecatia Lapislazuli",
+    "points": 3012,
+    "nr1votes": 310,
+    "comments": 644,
+    "fanworks": 3
+  },
+  {
+    "ranking": 39,
+    "rankinglast": 86,
+    "rankingbeforelast": 87,
+    "name": "Hieda no Akyuu",
+    "points": 3011,
+    "nr1votes": 315,
+    "comments": 822,
+    "fanworks": 6
+  },
+  {
+    "ranking": 40,
+    "rankinglast": 39,
+    "rankingbeforelast": 37,
+    "name": "Mononobe no Futo",
+    "points": 2967,
+    "nr1votes": 386,
+    "comments": 618,
+    "fanworks": 12
+  },
+  {
+    "ranking": 41,
+    "rankinglast": 40,
+    "rankingbeforelast": 35,
+    "name": "Nitori Kawashiro",
+    "points": 2849,
+    "nr1votes": 395,
+    "comments": 540,
+    "fanworks": 3
+  },
+  {
+    "ranking": 42,
+    "rankinglast": 29,
+    "rankingbeforelast": 53,
+    "name": "Yuuma Toutetsu",
+    "points": 2803,
+    "nr1votes": 259,
+    "comments": 608,
+    "fanworks": 14
+  },
+  {
+    "ranking": 43,
+    "rankinglast": 45,
+    "rankingbeforelast": 42,
+    "name": "Hina Kagiyama",
+    "points": 2774,
+    "nr1votes": 397,
+    "comments": 518,
+    "fanworks": 4
+  },
+  {
+    "ranking": 44,
+    "rankinglast": 36,
+    "rankingbeforelast": 33,
+    "name": "Sagume Kishin",
+    "points": 2731,
+    "nr1votes": 324,
+    "comments": 520,
+    "fanworks": 6
+  },
+  {
+    "ranking": 45,
+    "rankinglast": 44,
+    "rankingbeforelast": 43,
+    "name": "Okina Matara",
+    "points": 2540,
+    "nr1votes": 314,
+    "comments": 572,
+    "fanworks": 6
+  },
+  {
+    "ranking": 46,
+    "rankinglast": 43,
+    "rankingbeforelast": 39,
+    "name": "Kasen Ibaraki",
+    "points": 2528,
+    "nr1votes": 269,
+    "comments": 482,
+    "fanworks": 7
+  },
+  {
+    "ranking": 47,
+    "rankinglast": 42,
+    "rankingbeforelast": 45,
+    "name": "Rin Kaenbyou",
+    "points": 2278,
+    "nr1votes": 225,
+    "comments": 455,
+    "fanworks": 4
+  },
+  {
+    "ranking": 48,
+    "rankinglast": 54,
+    "rankingbeforelast": 60,
+    "name": "Maribel Hearn",
+    "points": 2220,
+    "nr1votes": 134,
+    "comments": 439,
+    "fanworks": 5
+  },
+  {
+    "ranking": 49,
+    "rankinglast": 48,
+    "rankingbeforelast": 47,
+    "name": "Byakuren Hijiri",
+    "points": 2087,
+    "nr1votes": 205,
+    "comments": 440,
+    "fanworks": 1
+  },
+  {
+    "ranking": 50,
+    "rankinglast": 55,
+    "rankingbeforelast": 55,
+    "name": "Keine Kamishirasawa",
+    "points": 1926,
+    "nr1votes": 173,
+    "comments": 378,
+    "fanworks": 9
+  },
+  {
+    "ranking": 51,
+    "rankinglast": 50,
+    "rankingbeforelast": 56,
+    "name": "Chen",
+    "points": 1924,
+    "nr1votes": 178,
+    "comments": 495,
+    "fanworks": 9
+  },
+  {
+    "ranking": 52,
+    "rankinglast": 63,
+    "rankingbeforelast": 69,
+    "name": "Mystia Lorelei",
+    "points": 1898,
+    "nr1votes": 236,
+    "comments": 408,
+    "fanworks": 14
+  },
+  {
+    "ranking": 53,
+    "rankinglast": 51,
+    "rankingbeforelast": 44,
+    "name": "Nue Houjuu",
+    "points": 1883,
+    "nr1votes": 198,
+    "comments": 386,
+    "fanworks": 4
+  },
+  {
+    "ranking": 54,
+    "rankinglast": 48,
+    "rankingbeforelast": 49,
+    "name": "Nazrin",
+    "points": 1776,
+    "nr1votes": 244,
+    "comments": 388,
+    "fanworks": 5
+  },
+  {
+    "ranking": 55,
+    "rankinglast": 66,
+    "rankingbeforelast": 61,
+    "name": "Megumu Iizunamaru",
+    "points": 1680,
+    "nr1votes": 166,
+    "comments": 410,
+    "fanworks": 4
+  },
+  {
+    "ranking": 56,
+    "rankinglast": 70,
+    "rankingbeforelast": 75,
+    "name": "Mima",
+    "points": 1667,
+    "nr1votes": 146,
+    "comments": 481,
+    "fanworks": 7
+  },
+  {
+    "ranking": 57,
+    "rankinglast": 57,
+    "rankingbeforelast": 54,
+    "name": "Koakuma",
+    "points": 1611,
+    "nr1votes": 106,
+    "comments": 302,
+    "fanworks": 5
+  },
+  {
+    "ranking": 58,
+    "rankinglast": 56,
+    "rankingbeforelast": 50,
+    "name": "Doremy Sweet",
+    "points": 1602,
+    "nr1votes": 165,
+    "comments": 343,
+    "fanworks": 4
+  },
+  {
+    "ranking": 59,
+    "rankinglast": 64,
+    "rankingbeforelast": 52,
+    "name": "Chimata Tenkyuu",
+    "points": 1590,
+    "nr1votes": 144,
+    "comments": 388,
+    "fanworks": 8
+  },
+  {
+    "ranking": 60,
+    "rankinglast": 62,
+    "rankingbeforelast": 48,
+    "name": "Clownpiece",
+    "points": 1568,
+    "nr1votes": 126,
+    "comments": 300,
+    "fanworks": 8
+  },
+  {
+    "ranking": 61,
+    "rankinglast": 47,
+    "rankingbeforelast": 57,
+    "name": "Tsukasa Kudamaki",
+    "points": 1553,
+    "nr1votes": 113,
+    "comments": 371,
+    "fanworks": 7
+  },
+  {
+    "ranking": 62,
+    "rankinglast": 60,
+    "rankingbeforelast": 58,
+    "name": "Seiga Kaku",
+    "points": 1548,
+    "nr1votes": 151,
+    "comments": 316,
+    "fanworks": 5
+  },
+  {
+    "ranking": 63,
+    "rankinglast": 61,
+    "rankingbeforelast": 66,
+    "name": "Daiyousei",
+    "points": 1508,
+    "nr1votes": 100,
+    "comments": 328,
+    "fanworks": 6
+  },
+  {
+    "ranking": 64,
+    "rankinglast": 64,
+    "rankingbeforelast": 71,
+    "name": "Sekibanki",
+    "points": 1498,
+    "nr1votes": 171,
+    "comments": 307,
+    "fanworks": 7
+  },
+  {
+    "ranking": 65,
+    "rankinglast": 59,
+    "rankingbeforelast": 59,
+    "name": "Minamitsu Murasa",
+    "points": 1464,
+    "nr1votes": 183,
+    "comments": 299,
+    "fanworks": 1
+  },
+  {
+    "ranking": 66,
+    "rankinglast": 58,
+    "rankingbeforelast": 51,
+    "name": "Keiki Haniyasushin",
+    "points": 1458,
+    "nr1votes": 148,
+    "comments": 296,
+    "fanworks": 7
+  },
+  {
+    "ranking": 67,
+    "rankinglast": 94,
+    "rankingbeforelast": 90,
+    "name": "Shinki",
+    "points": 1428,
+    "nr1votes": 94,
+    "comments": 355,
+    "fanworks": 2
+  },
+  {
+    "ranking": 68,
+    "rankinglast": 76,
+    "rankingbeforelast": 68,
+    "name": "Joon Yorigami",
+    "points": 1423,
+    "nr1votes": 123,
+    "comments": 302,
+    "fanworks": 3
+  },
+  {
+    "ranking": 69,
+    "rankinglast": 67,
+    "rankingbeforelast": 67,
+    "name": "Tewi Inaba",
+    "points": 1404,
+    "nr1votes": 101,
+    "comments": 267,
+    "fanworks": 4
+  },
+  {
+    "ranking": 70,
+    "rankinglast": 46,
+    "rankingbeforelast": 64,
+    "name": "Yachie Kicchou",
+    "points": 1385,
+    "nr1votes": 103,
+    "comments": 294,
+    "fanworks": 6
+  },
+  {
+    "ranking": 71,
+    "rankinglast": 87,
+    "rankingbeforelast": 81,
+    "name": "Wriggle Nightbug",
+    "points": 1323,
+    "nr1votes": 234,
+    "comments": 352,
+    "fanworks": 6
+  },
+  {
+    "ranking": 72,
+    "rankinglast": 72,
+    "rankingbeforelast": 76,
+    "name": "Kosuzu Motoori",
+    "points": 1311,
+    "nr1votes": 110,
+    "comments": 265,
+    "fanworks": 5
+  },
+  {
+    "ranking": 73,
+    "rankinglast": 75,
+    "rankingbeforelast": 78,
+    "name": "Mamizou Futatsuiwa",
+    "points": 1294,
+    "nr1votes": 126,
+    "comments": 294,
+    "fanworks": 2
+  },
+  {
+    "ranking": 74,
+    "rankinglast": 76,
+    "rankingbeforelast": 79,
+    "name": "Kanako Yasaka",
+    "points": 1287,
+    "nr1votes": 131,
+    "comments": 302,
+    "fanworks": 6
+  },
+  {
+    "ranking": 75,
+    "rankinglast": 73,
+    "rankingbeforelast": 62,
+    "name": "Iku Nagae",
+    "points": 1273,
+    "nr1votes": 125,
+    "comments": 260,
+    "fanworks": 3
+  },
+  {
+    "ranking": 76,
+    "rankinglast": 88,
+    "rankingbeforelast": 77,
+    "name": "Komachi Onozuka",
+    "points": 1210,
+    "nr1votes": 101,
+    "comments": 251,
+    "fanworks": 2
+  },
+  {
+    "ranking": 77,
+    "rankinglast": 83,
+    "rankingbeforelast": 74,
+    "name": "Rinnosuke Morichika",
+    "points": 1202,
+    "nr1votes": 115,
+    "comments": 312,
+    "fanworks": 3
+  },
+  {
+    "ranking": 78,
+    "rankinglast": 84,
+    "rankingbeforelast": 80,
+    "name": "Hatate Himekaidou",
+    "points": 1166,
+    "nr1votes": 98,
+    "comments": 239,
+    "fanworks": 4
+  },
+  {
+    "ranking": 79,
+    "rankinglast": 90,
+    "rankingbeforelast": 96,
+    "name": "Lily White",
+    "points": 1161,
+    "nr1votes": 130,
+    "comments": 255,
+    "fanworks": 4
+  },
+  {
+    "ranking": 80,
+    "rankinglast": 82,
+    "rankingbeforelast": 72,
+    "name": "Yuugi Hoshiguma",
+    "points": 1143,
+    "nr1votes": 113,
+    "comments": 262,
+    "fanworks": 15
+  },
+  {
+    "ranking": 81,
+    "rankinglast": 52,
+    "rankingbeforelast": "-",
+    "name": "Hisami Yomotsu",
+    "points": 1131,
+    "nr1votes": 78,
+    "comments": 218,
+    "fanworks": 1
+  },
+  {
+    "ranking": 82,
+    "rankinglast": 80,
+    "rankingbeforelast": 65,
+    "name": "Sumireko Usami",
+    "points": 1116,
+    "nr1votes": 124,
+    "comments": 199,
+    "fanworks": 2
+  },
+  {
+    "ranking": 83,
+    "rankinglast": 79,
+    "rankingbeforelast": 63,
+    "name": "Kutaka Niwatari",
+    "points": 1089,
+    "nr1votes": 105,
+    "comments": 242,
+    "fanworks": 5
+  },
+  {
+    "ranking": 84,
+    "rankinglast": 69,
+    "rankingbeforelast": 70,
+    "name": "Kagerou Imaizumi",
+    "points": 1082,
+    "nr1votes": 111,
+    "comments": 212,
+    "fanworks": 1
+  },
+  {
+    "ranking": 85,
+    "rankinglast": 93,
+    "rankingbeforelast": 95,
+    "name": "Aunn Komano",
+    "points": 1075,
+    "nr1votes": 73,
+    "comments": 272,
+    "fanworks": 3
+  },
+  {
+    "ranking": 86,
+    "rankinglast": 85,
+    "rankingbeforelast": 73,
+    "name": "Soga no Tojiko",
+    "points": 1061,
+    "nr1votes": 124,
+    "comments": 210,
+    "fanworks": 8
+  },
+  {
+    "ranking": 87,
+    "rankinglast": 68,
+    "rankingbeforelast": "-",
+    "name": "Zanmu Nippaku",
+    "points": 1013,
+    "nr1votes": 95,
+    "comments": 161,
+    "fanworks": 1
+  },
+  {
+    "ranking": 88,
+    "rankinglast": 92,
+    "rankingbeforelast": 99,
+    "name": "Miyoi Okunoda",
+    "points": 1007,
+    "nr1votes": 45,
+    "comments": 265,
+    "fanworks": 3
+  },
+  {
+    "ranking": 89,
+    "rankinglast": 91,
+    "rankingbeforelast": 82,
+    "name": "Shinmyoumaru Sukuna",
+    "points": 962,
+    "nr1votes": 108,
+    "comments": 195,
+    "fanworks": 5
+  },
+  {
+    "ranking": 90,
+    "rankinglast": 89,
+    "rankingbeforelast": 84,
+    "name": "Lunasa Prismriver",
+    "points": 874,
+    "nr1votes": 92,
+    "comments": 177,
+    "fanworks": 3
+  },
+  {
+    "ranking": 91,
+    "rankinglast": 106,
+    "rankingbeforelast": 101,
+    "name": "Letty Whiterock",
+    "points": 844,
+    "nr1votes": 110,
+    "comments": 213,
+    "fanworks": 6
+  },
+  {
+    "ranking": 92,
+    "rankinglast": 97,
+    "rankingbeforelast": 86,
+    "name": "Yoshika Miyako",
+    "points": 825,
+    "nr1votes": 94,
+    "comments": 205,
+    "fanworks": 6
+  },
+  {
+    "ranking": 93,
+    "rankinglast": 96,
+    "rankingbeforelast": 85,
+    "name": "Medicine Melancholy",
+    "points": 823,
+    "nr1votes": 104,
+    "comments": 181,
+    "fanworks": 4
+  },
+  {
+    "ranking": 94,
+    "rankinglast": 103,
+    "rankingbeforelast": 100,
+    "name": "Yumemi Okazaki",
+    "points": 802,
+    "nr1votes": 84,
+    "comments": 170,
+    "fanworks": 2
+  },
+  {
+    "ranking": 95,
+    "rankinglast": 99,
+    "rankingbeforelast": 88,
+    "name": "Raiko Horikawa",
+    "points": 787,
+    "nr1votes": 93,
+    "comments": 165,
+    "fanworks": 1
+  },
+  {
+    "ranking": 96,
+    "rankinglast": 97,
+    "rankingbeforelast": 91,
+    "name": "Watatsuki no Yorihime",
+    "points": 786,
+    "nr1votes": 80,
+    "comments": 173,
+    "fanworks": 2
+  },
+  {
+    "ranking": 97,
+    "rankinglast": 74,
+    "rankingbeforelast": "-",
+    "name": "Chiyari Tenkajin",
+    "points": 784,
+    "nr1votes": 40,
+    "comments": 217,
+    "fanworks": 2
+  },
+  {
+    "ranking": 98,
+    "rankinglast": 101,
+    "rankingbeforelast": 83,
+    "name": "Momoyo Himemushi",
+    "points": 779,
+    "nr1votes": 63,
+    "comments": 181,
+    "fanworks": 4
+  },
+  {
+    "ranking": 99,
+    "rankinglast": 100,
+    "rankingbeforelast": 92,
+    "name": "Minoriko Aki",
+    "points": 765,
+    "nr1votes": 71,
+    "comments": 179,
+    "fanworks": 5
+  },
+  {
+    "ranking": 100,
+    "rankinglast": 81,
+    "rankingbeforelast": 93,
+    "name": "Saki Kurokoma",
+    "points": 754,
+    "nr1votes": 46,
+    "comments": 176,
+    "fanworks": 3
+  },
+  {
+    "ranking": 101,
+    "rankinglast": 95,
+    "rankingbeforelast": 89,
+    "name": "Shizuha Aki",
+    "points": 749,
+    "nr1votes": 81,
+    "comments": 178,
+    "fanworks": 5
+  },
+  {
+    "ranking": 102,
+    "rankinglast": 118,
+    "rankingbeforelast": 113,
+    "name": "Gengetsu",
+    "points": 715,
+    "nr1votes": 54,
+    "comments": 166,
+    "fanworks": 4
+  },
+  {
+    "ranking": 103,
+    "rankinglast": 111,
+    "rankingbeforelast": 110,
+    "name": "Luna Child",
+    "points": 705,
+    "nr1votes": 60,
+    "comments": 165,
+    "fanworks": 6
+  },
+  {
+    "ranking": 104,
+    "rankinglast": 105,
+    "rankingbeforelast": 97,
+    "name": "Wakasagihime",
+    "points": 701,
+    "nr1votes": 66,
+    "comments": 158,
+    "fanworks": 1
+  },
+  {
+    "ranking": 105,
+    "rankinglast": 104,
+    "rankingbeforelast": 98,
+    "name": "Shou Toramaru",
+    "points": 691,
+    "nr1votes": 92,
+    "comments": 159,
+    "fanworks": 2
+  },
+  {
+    "ranking": 106,
+    "rankinglast": 108,
+    "rankingbeforelast": 111,
+    "name": "Star Sapphire",
+    "points": 630,
+    "nr1votes": 46,
+    "comments": 152,
+    "fanworks": 22
+  },
+  {
+    "ranking": 107,
+    "rankinglast": 102,
+    "rankingbeforelast": 116,
+    "name": "Seiran",
+    "points": 599,
+    "nr1votes": 45,
+    "comments": 138,
+    "fanworks": 4
+  },
+  {
+    "ranking": 108,
+    "rankinglast": 112,
+    "rankingbeforelast": 102,
+    "name": "Yamame Kurodani",
+    "points": 590,
+    "nr1votes": 52,
+    "comments": 123,
+    "fanworks": 3
+  },
+  {
+    "ranking": 109,
+    "rankinglast": 107,
+    "rankingbeforelast": 94,
+    "name": "Mayumi Joutouguu",
+    "points": 585,
+    "nr1votes": 48,
+    "comments": 111,
+    "fanworks": 4
+  },
+  {
+    "ranking": 110,
+    "rankinglast": 78,
+    "rankingbeforelast": "-",
+    "name": "Son Biten",
+    "points": 582,
+    "nr1votes": 18,
+    "comments": 150,
+    "fanworks": 0
+  },
+  {
+    "ranking": 111,
+    "rankinglast": 71,
+    "rankingbeforelast": "-",
+    "name": "Enoko Mitsugashira",
+    "points": 570,
+    "nr1votes": 14,
+    "comments": 146,
+    "fanworks": 3
+  },
+  {
+    "ranking": 112,
+    "rankinglast": 110,
+    "rankingbeforelast": 105,
+    "name": "Kyouko Kasodani",
+    "points": 561,
+    "nr1votes": 55,
+    "comments": 127,
+    "fanworks": 3
+  },
+  {
+    "ranking": 113,
+    "rankinglast": 121,
+    "rankingbeforelast": 121,
+    "name": "Sunny Milk",
+    "points": 555,
+    "nr1votes": 35,
+    "comments": 139,
+    "fanworks": 6
+  },
+  {
+    "ranking": 114,
+    "rankinglast": 125,
+    "rankingbeforelast": 125,
+    "name": "Dolls in Pseudo Paradise CD Jacket Girl",
+    "points": 527,
+    "nr1votes": 60,
+    "comments": 126,
+    "fanworks": 1
+  },
+  {
+    "ranking": 115,
+    "rankinglast": 114,
+    "rankingbeforelast": 103,
+    "name": "Mai Teireida",
+    "points": 524,
+    "nr1votes": 41,
+    "comments": 112,
+    "fanworks": 1
+  },
+  {
+    "ranking": 116,
+    "rankinglast": 113,
+    "rankingbeforelast": 109,
+    "name": "Merlin Prismriver",
+    "points": 513,
+    "nr1votes": 37,
+    "comments": 126,
+    "fanworks": 1
+  },
+  {
+    "ranking": 117,
+    "rankinglast": 117,
+    "rankingbeforelast": 115,
+    "name": "Alice's Dolls (Shanghai, Hourai, Ooedo, etc.)",
+    "points": 508,
+    "nr1votes": 9,
+    "comments": 130,
+    "fanworks": 0
+  },
+  {
+    "ranking": 118,
+    "rankinglast": 136,
+    "rankingbeforelast": 138,
+    "name": "Mizuchi Miyadeguchi",
+    "points": 507,
+    "nr1votes": 38,
+    "comments": 164,
+    "fanworks": 8
+  },
+  {
+    "ranking": 119,
+    "rankinglast": 115,
+    "rankingbeforelast": 108,
+    "name": "Watatsuki no Toyohime",
+    "points": 497,
+    "nr1votes": 59,
+    "comments": 106,
+    "fanworks": 0
+  },
+  {
+    "ranking": 120,
+    "rankinglast": 134,
+    "rankingbeforelast": 128,
+    "name": "Mugetsu",
+    "points": 477,
+    "nr1votes": 21,
+    "comments": 114,
+    "fanworks": 2
+  },
+  {
+    "ranking": 121,
+    "rankinglast": 119,
+    "rankingbeforelast": 104,
+    "name": "Unnamed Jinyou (Fortune Teller)",
+    "points": 464,
+    "nr1votes": 37,
+    "comments": 144,
+    "fanworks": 1
+  },
+  {
+    "ranking": 122,
+    "rankinglast": 128,
+    "rankingbeforelast": 112,
+    "name": "Eternity Larva",
+    "points": 451,
+    "nr1votes": 40,
+    "comments": 103,
+    "fanworks": 4
+  },
+  {
+    "ranking": 123,
+    "rankinglast": 124,
+    "rankingbeforelast": 114,
+    "name": "Ichirin Kumoi",
+    "points": 429,
+    "nr1votes": 52,
+    "comments": 92,
+    "fanworks": 0
+  },
+  {
+    "ranking": 124,
+    "rankinglast": 116,
+    "rankingbeforelast": 106,
+    "name": "Mike Goutokuji",
+    "points": 426,
+    "nr1votes": 20,
+    "comments": 101,
+    "fanworks": 2
+  },
+  {
+    "ranking": 125,
+    "rankinglast": 119,
+    "rankingbeforelast": 119,
+    "name": "Lyrica Prismriver",
+    "points": 423,
+    "nr1votes": 37,
+    "comments": 96,
+    "fanworks": 3
+  },
+  {
+    "ranking": 126,
+    "rankinglast": "-",
+    "rankingbeforelast": "-",
+    "name": "C62 Circle Cut Girl",
+    "points": 420,
+    "nr1votes": 65,
+    "comments": 129,
+    "fanworks": 3
+  },
+  {
+    "ranking": 127,
+    "rankinglast": 123,
+    "rankingbeforelast": 117,
+    "name": "Benben Tsukumo",
+    "points": 416,
+    "nr1votes": 30,
+    "comments": 85,
+    "fanworks": 1
+  },
+  {
+    "ranking": 128,
+    "rankinglast": 122,
+    "rankingbeforelast": 118,
+    "name": "Unnamed Book-Reading Youkai (Tokiko)",
+    "points": 408,
+    "nr1votes": 35,
+    "comments": 103,
+    "fanworks": 1
+  },
+  {
+    "ranking": 129,
+    "rankinglast": 126,
+    "rankingbeforelast": 107,
+    "name": "Satono Nishida",
+    "points": 383,
+    "nr1votes": 20,
+    "comments": 72,
+    "fanworks": 2
+  },
+  {
+    "ranking": 130,
+    "rankinglast": 130,
+    "rankingbeforelast": 127,
+    "name": "Kana Anaberal",
+    "points": 358,
+    "nr1votes": 27,
+    "comments": 88,
+    "fanworks": 1
+  },
+  {
+    "ranking": 131,
+    "rankinglast": 127,
+    "rankingbeforelast": 125,
+    "name": "Rei'sen",
+    "points": 340,
+    "nr1votes": 25,
+    "comments": 85,
+    "fanworks": 1
+  },
+  {
+    "ranking": 132,
+    "rankinglast": 129,
+    "rankingbeforelast": 120,
+    "name": "Ringo",
+    "points": 333,
+    "nr1votes": 30,
+    "comments": 80,
+    "fanworks": 1
+  },
+  {
+    "ranking": 133,
+    "rankinglast": 132,
+    "rankingbeforelast": 129,
+    "name": "Sariel",
+    "points": 310,
+    "nr1votes": 30,
+    "comments": 66,
+    "fanworks": 1
+  },
+  {
+    "ranking": 134,
+    "rankinglast": 131,
+    "rankingbeforelast": 124,
+    "name": "Narumi Yatadera",
+    "points": 282,
+    "nr1votes": 21,
+    "comments": 67,
+    "fanworks": 4
+  },
+  {
+    "ranking": 135,
+    "rankinglast": 133,
+    "rankingbeforelast": 132,
+    "name": "Yumeko",
+    "points": 281,
+    "nr1votes": 11,
+    "comments": 81,
+    "fanworks": 2
+  },
+  {
+    "ranking": 136,
+    "rankinglast": 135,
+    "rankingbeforelast": 130,
+    "name": "Yatsuhashi Tsukumo",
+    "points": 272,
+    "nr1votes": 35,
+    "comments": 72,
+    "fanworks": 3
+  },
+  {
+    "ranking": 137,
+    "rankinglast": 139,
+    "rankingbeforelast": 122,
+    "name": "Takane Yamashiro",
+    "points": 264,
+    "nr1votes": 37,
+    "comments": 59,
+    "fanworks": 1
+  },
+  {
+    "ranking": 138,
+    "rankinglast": 137,
+    "rankingbeforelast": 131,
+    "name": "Kisume",
+    "points": 242,
+    "nr1votes": 16,
+    "comments": 43,
+    "fanworks": 0
+  },
+  {
+    "ranking": 139,
+    "rankinglast": 143,
+    "rankingbeforelast": 134,
+    "name": "Eika Ebisu",
+    "points": 235,
+    "nr1votes": 16,
+    "comments": 67,
+    "fanworks": 7
+  },
+  {
+    "ranking": 139,
+    "rankinglast": 151,
+    "rankingbeforelast": 152,
+    "name": "Kasen's arm",
+    "points": 235,
+    "nr1votes": 8,
+    "comments": 70,
+    "fanworks": 3
+  },
+  {
+    "ranking": 141,
+    "rankinglast": 109,
+    "rankingbeforelast": 143,
+    "name": "Sannyo Komakusa",
+    "points": 227,
+    "nr1votes": 11,
+    "comments": 68,
+    "fanworks": 3
+  },
+  {
+    "ranking": 142,
+    "rankinglast": 155,
+    "rankingbeforelast": 159,
+    "name": "Meira",
+    "points": 217,
+    "nr1votes": 58,
+    "comments": 64,
+    "fanworks": 6
+  },
+  {
+    "ranking": 143,
+    "rankinglast": 140,
+    "rankingbeforelast": 123,
+    "name": "Misumaru Tamatsukuri",
+    "points": 206,
+    "nr1votes": 11,
+    "comments": 61,
+    "fanworks": 2
+  },
+  {
+    "ranking": 144,
+    "rankinglast": 154,
+    "rankingbeforelast": 151,
+    "name": "Elly",
+    "points": 204,
+    "nr1votes": 21,
+    "comments": 56,
+    "fanworks": 0
+  },
+  {
+    "ranking": 145,
+    "rankinglast": 142,
+    "rankingbeforelast": 139,
+    "name": "Chiyuri Kitashirakawa",
+    "points": 203,
+    "nr1votes": 13,
+    "comments": 41,
+    "fanworks": 0
+  },
+  {
+    "ranking": 146,
+    "rankinglast": 140,
+    "rankingbeforelast": 135,
+    "name": "Kurumi",
+    "points": 194,
+    "nr1votes": 19,
+    "comments": 49,
+    "fanworks": 1
+  },
+  {
+    "ranking": 147,
+    "rankinglast": 157,
+    "rankingbeforelast": 147,
+    "name": "Mai",
+    "points": 193,
+    "nr1votes": 11,
+    "comments": 48,
+    "fanworks": 0
+  },
+  {
+    "ranking": 148,
+    "rankinglast": 143,
+    "rankingbeforelast": 136,
+    "name": "Youki Konpaku",
+    "points": 191,
+    "nr1votes": 7,
+    "comments": 54,
+    "fanworks": 0
+  },
+  {
+    "ranking": 149,
+    "rankinglast": 158,
+    "rankingbeforelast": 157,
+    "name": "Dolls in Pseudo Paradise CD Label Girl",
+    "points": 189,
+    "nr1votes": 2,
+    "comments": 49,
+    "fanworks": 1
+  },
+  {
+    "ranking": 150,
+    "rankinglast": 146,
+    "rankingbeforelast": 150,
+    "name": "Ellen",
+    "points": 188,
+    "nr1votes": 17,
+    "comments": 49,
+    "fanworks": 2
+  },
+  {
+    "ranking": 151,
+    "rankinglast": 137,
+    "rankingbeforelast": 133,
+    "name": "Anxious Moustached Villager",
+    "points": 185,
+    "nr1votes": 9,
+    "comments": 41,
+    "fanworks": 0
+  },
+  {
+    "ranking": 152,
+    "rankinglast": 147,
+    "rankingbeforelast": 140,
+    "name": "Urumi Ushizaki",
+    "points": 178,
+    "nr1votes": 20,
+    "comments": 50,
+    "fanworks": 18
+  },
+  {
+    "ranking": 153,
+    "rankinglast": 148,
+    "rankingbeforelast": 142,
+    "name": "Nemuno Sakata",
+    "points": 175,
+    "nr1votes": 7,
+    "comments": 54,
+    "fanworks": 5
+  },
+  {
+    "ranking": 154,
+    "rankinglast": 149,
+    "rankingbeforelast": 141,
+    "name": "Kotohime",
+    "points": 171,
+    "nr1votes": 17,
+    "comments": 48,
+    "fanworks": 2
+  },
+  {
+    "ranking": 155,
+    "rankinglast": 150,
+    "rankingbeforelast": 144,
+    "name": "Konngara",
+    "points": 161,
+    "nr1votes": 16,
+    "comments": 44,
+    "fanworks": 4
+  },
+  {
+    "ranking": 156,
+    "rankinglast": 162,
+    "rankingbeforelast": 153,
+    "name": "Yuki",
+    "points": 140,
+    "nr1votes": 10,
+    "comments": 45,
+    "fanworks": 0
+  },
+  {
+    "ranking": 157,
+    "rankinglast": 145,
+    "rankingbeforelast": 148,
+    "name": "Elis",
+    "points": 139,
+    "nr1votes": 10,
+    "comments": 30,
+    "fanworks": 3
+  },
+  {
+    "ranking": 158,
+    "rankinglast": 156,
+    "rankingbeforelast": 146,
+    "name": "Unzan",
+    "points": 138,
+    "nr1votes": 8,
+    "comments": 43,
+    "fanworks": 0
+  },
+  {
+    "ranking": 159,
+    "rankinglast": 152,
+    "rankingbeforelast": 145,
+    "name": "Kedama",
+    "points": 135,
+    "nr1votes": 3,
+    "comments": 34,
+    "fanworks": 0
+  },
+  {
+    "ranking": 160,
+    "rankinglast": 160,
+    "rankingbeforelast": 158,
+    "name": "Layla Prismriver",
+    "points": 131,
+    "nr1votes": 10,
+    "comments": 37,
+    "fanworks": 1
+  },
+  {
+    "ranking": 161,
+    "rankinglast": 163,
+    "rankingbeforelast": 156,
+    "name": "Rika",
+    "points": 130,
+    "nr1votes": 12,
+    "comments": 34,
+    "fanworks": 0
+  },
+  {
+    "ranking": 162,
+    "rankinglast": 159,
+    "rankingbeforelast": 154,
+    "name": "Giant Catfish",
+    "points": 122,
+    "nr1votes": 4,
+    "comments": 40,
+    "fanworks": 1
+  },
+  {
+    "ranking": 163,
+    "rankinglast": 153,
+    "rankingbeforelast": 148,
+    "name": "Otter Spirit",
+    "points": 119,
+    "nr1votes": 2,
+    "comments": 39,
+    "fanworks": 1
+  },
+  {
+    "ranking": 164,
+    "rankinglast": 161,
+    "rankingbeforelast": 155,
+    "name": "Ruukoto",
+    "points": 117,
+    "nr1votes": 12,
+    "comments": 37,
+    "fanworks": 0
+  },
+  {
+    "ranking": 165,
+    "rankinglast": 170,
+    "rankingbeforelast": 165,
+    "name": "YuugenMagan",
+    "points": 115,
+    "nr1votes": 9,
+    "comments": 39,
+    "fanworks": 1
+  },
+  {
+    "ranking": 166,
+    "rankinglast": 167,
+    "rankingbeforelast": 168,
+    "name": "Genjii",
+    "points": 110,
+    "nr1votes": 5,
+    "comments": 33,
+    "fanworks": 0
+  },
+  {
+    "ranking": 167,
+    "rankinglast": 165,
+    "rankingbeforelast": 162,
+    "name": "UFO tokens",
+    "points": 101,
+    "nr1votes": 5,
+    "comments": 31,
+    "fanworks": 0
+  },
+  {
+    "ranking": 168,
+    "rankinglast": 164,
+    "rankingbeforelast": 160,
+    "name": "Rikako Asakura",
+    "points": 96,
+    "nr1votes": 2,
+    "comments": 31,
+    "fanworks": 0
+  },
+  {
+    "ranking": 169,
+    "rankinglast": 168,
+    "rankingbeforelast": 137,
+    "name": "Louise",
+    "points": 87,
+    "nr1votes": 7,
+    "comments": 21,
+    "fanworks": 1
+  },
+  {
+    "ranking": 170,
+    "rankinglast": 174,
+    "rankingbeforelast": 166,
+    "name": "SinGyoku",
+    "points": 86,
+    "nr1votes": 9,
+    "comments": 29,
+    "fanworks": 3
+  },
+  {
+    "ranking": 171,
+    "rankinglast": 166,
+    "rankingbeforelast": 175,
+    "name": "Fairy (Maid, Sunflower, etc.)",
+    "points": 85,
+    "nr1votes": 4,
+    "comments": 22,
+    "fanworks": 0
+  },
+  {
+    "ranking": 172,
+    "rankinglast": 168,
+    "rankingbeforelast": 161,
+    "name": "Thermonuclear Deity Hisou Tensoku",
+    "points": 83,
+    "nr1votes": 6,
+    "comments": 21,
+    "fanworks": 0
+  },
+  {
+    "ranking": 173,
+    "rankinglast": 178,
+    "rankingbeforelast": 173,
+    "name": "Orange",
+    "points": 78,
+    "nr1votes": 6,
+    "comments": 27,
+    "fanworks": 0
+  },
+  {
+    "ranking": 173,
+    "rankinglast": 175,
+    "rankingbeforelast": 169,
+    "name": "Crows (Hell ravens, Yukari and Aya's familiars, etc.)",
+    "points": 78,
+    "nr1votes": 2,
+    "comments": 14,
+    "fanworks": 0
+  },
+  {
+    "ranking": 175,
+    "rankinglast": 172,
+    "rankingbeforelast": 171,
+    "name": "Mimi-chan",
+    "points": 75,
+    "nr1votes": 2,
+    "comments": 20,
+    "fanworks": 0
+  },
+  {
+    "ranking": 176,
+    "rankinglast": 179,
+    "rankingbeforelast": 172,
+    "name": "Chang'e",
+    "points": 65,
+    "nr1votes": 5,
+    "comments": 30,
+    "fanworks": 0
+  },
+  {
+    "ranking": 177,
+    "rankinglast": 177,
+    "rankingbeforelast": 166,
+    "name": "Tsuchinoko",
+    "points": 64,
+    "nr1votes": 3,
+    "comments": 23,
+    "fanworks": 0
+  },
+  {
+    "ranking": 177,
+    "rankinglast": 176,
+    "rankingbeforelast": 179,
+    "name": "Tupai",
+    "points": 64,
+    "nr1votes": 2,
+    "comments": 16,
+    "fanworks": 0
+  },
+  {
+    "ranking": 179,
+    "rankinglast": 180,
+    "rankingbeforelast": 163,
+    "name": "Nameemon (Kosuzu's stuffed slug)",
+    "points": 60,
+    "nr1votes": 3,
+    "comments": 26,
+    "fanworks": 0
+  },
+  {
+    "ranking": 180,
+    "rankinglast": 181,
+    "rankingbeforelast": "-",
+    "name": "Geidontei Regulars",
+    "points": 58,
+    "nr1votes": 1,
+    "comments": 25,
+    "fanworks": 0
+  },
+  {
+    "ranking": 181,
+    "rankinglast": 170,
+    "rankingbeforelast": 181,
+    "name": "Sara",
+    "points": 54,
+    "nr1votes": 5,
+    "comments": 14,
+    "fanworks": 1
+  },
+  {
+    "ranking": 182,
+    "rankinglast": 173,
+    "rankingbeforelast": 163,
+    "name": "PC-98 unnamed midbosses",
+    "points": 51,
+    "nr1votes": 4,
+    "comments": 20,
+    "fanworks": 0
+  },
+  {
+    "ranking": 183,
+    "rankinglast": 187,
+    "rankingbeforelast": 181,
+    "name": "Rabbits (Moon rabbits, Eientei youkai rabbits, etc.)",
+    "points": 50,
+    "nr1votes": 1,
+    "comments": 16,
+    "fanworks": 0
+  },
+  {
+    "ranking": 184,
+    "rankinglast": 183,
+    "rankingbeforelast": 176,
+    "name": "Kikuri",
+    "points": 49,
+    "nr1votes": 1,
+    "comments": 16,
+    "fanworks": 1
+  },
+  {
+    "ranking": 185,
+    "rankinglast": 188,
+    "rankingbeforelast": 187,
+    "name": "Kitsune (Youkai kitsune, Unnamed fox student, etc.)",
+    "points": 46,
+    "nr1votes": 2,
+    "comments": 15,
+    "fanworks": 0
+  },
+  {
+    "ranking": 186,
+    "rankinglast": 185,
+    "rankingbeforelast": 180,
+    "name": "Kappa (including yamawaro)",
+    "points": 40,
+    "nr1votes": 1,
+    "comments": 7,
+    "fanworks": 0
+  },
+  {
+    "ranking": 187,
+    "rankinglast": 206,
+    "rankingbeforelast": 191,
+    "name": "Tengu (Kourindou Tengu, Great Tengu, etc.)",
+    "points": 38,
+    "nr1votes": 1,
+    "comments": 6,
+    "fanworks": 0
+  },
+  {
+    "ranking": 188,
+    "rankinglast": 182,
+    "rankingbeforelast": 178,
+    "name": "Kasen's animals (Kume, Kanda, Raijuu, Houso, Jinkenmen, etc.)",
+    "points": 35,
+    "nr1votes": 1,
+    "comments": 7,
+    "fanworks": 0
+  },
+  {
+    "ranking": 189,
+    "rankinglast": 191,
+    "rankingbeforelast": 185,
+    "name": "Dragons (Dragon child, Unnamed evil dragon, etc.)",
+    "points": 34,
+    "nr1votes": 0,
+    "comments": 15,
+    "fanworks": 0
+  },
+  {
+    "ranking": 190,
+    "rankinglast": 183,
+    "rankingbeforelast": 177,
+    "name": "Wolf Spirit",
+    "points": 33,
+    "nr1votes": 0,
+    "comments": 12,
+    "fanworks": 0
+  },
+  {
+    "ranking": 190,
+    "rankinglast": 185,
+    "rankingbeforelast": 183,
+    "name": "Eagle Spirit",
+    "points": 33,
+    "nr1votes": 1,
+    "comments": 9,
+    "fanworks": 0
+  },
+  {
+    "ranking": 192,
+    "rankinglast": 190,
+    "rankingbeforelast": 191,
+    "name": "Hobgoblin",
+    "points": 32,
+    "nr1votes": 3,
+    "comments": 7,
+    "fanworks": 0
+  },
+  {
+    "ranking": 193,
+    "rankinglast": 204,
+    "rankingbeforelast": 194,
+    "name": "Summoned Gods (Amaterasu, Izunome, etc.)",
+    "points": 28,
+    "nr1votes": 1,
+    "comments": 3,
+    "fanworks": 0
+  },
+  {
+    "ranking": 194,
+    "rankinglast": 189,
+    "rankingbeforelast": 183,
+    "name": "Misc. Human Villagers (BAiJR, PMiSS, SoPM, FS, etc.)",
+    "points": 27,
+    "nr1votes": 0,
+    "comments": 9,
+    "fanworks": 0
+  },
+  {
+    "ranking": 195,
+    "rankinglast": 201,
+    "rankingbeforelast": 187,
+    "name": "Unshou",
+    "points": 26,
+    "nr1votes": 1,
+    "comments": 9,
+    "fanworks": 0
+  },
+  {
+    "ranking": 196,
+    "rankinglast": 198,
+    "rankingbeforelast": 193,
+    "name": "Myouren",
+    "points": 24,
+    "nr1votes": 0,
+    "comments": 4,
+    "fanworks": 0
+  },
+  {
+    "ranking": 197,
+    "rankinglast": 195,
+    "rankingbeforelast": 190,
+    "name": "Manzairaku",
+    "points": 23,
+    "nr1votes": 3,
+    "comments": 10,
+    "fanworks": 0
+  },
+  {
+    "ranking": 197,
+    "rankinglast": 201,
+    "rankingbeforelast": 186,
+    "name": "Kesaran-pesaran",
+    "points": 23,
+    "nr1votes": 0,
+    "comments": 7,
+    "fanworks": 0
+  },
+  {
+    "ranking": 199,
+    "rankinglast": 216,
+    "rankingbeforelast": 206,
+    "name": "Mizue no Uranoshimako",
+    "points": 20,
+    "nr1votes": 2,
+    "comments": 7,
+    "fanworks": 0
+  },
+  {
+    "ranking": 199,
+    "rankinglast": 193,
+    "rankingbeforelast": 200,
+    "name": "Ghosts (including vengeful spirits, divine spirits, bakebake)",
+    "points": 20,
+    "nr1votes": 1,
+    "comments": 7,
+    "fanworks": 0
+  },
+  {
+    "ranking": 199,
+    "rankinglast": 191,
+    "rankingbeforelast": "-",
+    "name": "Laika",
+    "points": 20,
+    "nr1votes": 2,
+    "comments": 11,
+    "fanworks": 0
+  },
+  {
+    "ranking": 202,
+    "rankinglast": 196,
+    "rankingbeforelast": 195,
+    "name": "Konohana-Sakuyahime",
+    "points": 19,
+    "nr1votes": 2,
+    "comments": 3,
+    "fanworks": 0
+  },
+  {
+    "ranking": 203,
+    "rankinglast": 207,
+    "rankingbeforelast": 208,
+    "name": "Kutsutsura",
+    "points": 18,
+    "nr1votes": 2,
+    "comments": 5,
+    "fanworks": 0
+  },
+  {
+    "ranking": 203,
+    "rankinglast": 194,
+    "rankingbeforelast": 174,
+    "name": "Urban Legends (Okiku-san, Hasshaku-sama)",
+    "points": 18,
+    "nr1votes": 0,
+    "comments": 5,
+    "fanworks": 0
+  },
+  {
+    "ranking": 205,
+    "rankinglast": 197,
+    "rankingbeforelast": "-",
+    "name": "Geidontei Owner",
+    "points": 15,
+    "nr1votes": 0,
+    "comments": 6,
+    "fanworks": 0
+  },
+  {
+    "ranking": 206,
+    "rankinglast": 198,
+    "rankingbeforelast": 189,
+    "name": "Sake Bug",
+    "points": 14,
+    "nr1votes": 1,
+    "comments": 2,
+    "fanworks": 0
+  },
+  {
+    "ranking": 206,
+    "rankinglast": 198,
+    "rankingbeforelast": 205,
+    "name": "Kosuzu Motoori's parents",
+    "points": 14,
+    "nr1votes": 0,
+    "comments": 7,
+    "fanworks": 0
+  },
+  {
+    "ranking": 208,
+    "rankinglast": 207,
+    "rankingbeforelast": 202,
+    "name": "Moon Capital Gate Guards",
+    "points": 13,
+    "nr1votes": 2,
+    "comments": 5,
+    "fanworks": 0
+  },
+  {
+    "ranking": 209,
+    "rankinglast": 207,
+    "rankingbeforelast": 197,
+    "name": "Shirou Sendai",
+    "points": 12,
+    "nr1votes": 0,
+    "comments": 3,
+    "fanworks": 0
+  },
+  {
+    "ranking": 210,
+    "rankinglast": 211,
+    "rankingbeforelast": 204,
+    "name": "Iwakasa",
+    "points": 11,
+    "nr1votes": 1,
+    "comments": 3,
+    "fanworks": 0
+  },
+  {
+    "ranking": 211,
+    "rankinglast": 212,
+    "rankingbeforelast": 195,
+    "name": "Bishamonten",
+    "points": 10,
+    "nr1votes": 0,
+    "comments": 0,
+    "fanworks": 0
+  },
+  {
+    "ranking": 211,
+    "rankinglast": 212,
+    "rankingbeforelast": 170,
+    "name": "Unnamed Dormouse (Yamane)",
+    "points": 10,
+    "nr1votes": 1,
+    "comments": 0,
+    "fanworks": 0
+  },
+  {
+    "ranking": 211,
+    "rankinglast": 201,
+    "rankingbeforelast": 198,
+    "name": "Unnamed Snake Youkai",
+    "points": 10,
+    "nr1votes": 0,
+    "comments": 3,
+    "fanworks": 0
+  },
+  {
+    "ranking": 214,
+    "rankinglast": 207,
+    "rankingbeforelast": 198,
+    "name": "Tanuki (Bake-danuki, Noteppou, etc.)",
+    "points": 9,
+    "nr1votes": 1,
+    "comments": 1,
+    "fanworks": 0
+  },
+  {
+    "ranking": 215,
+    "rankinglast": 214,
+    "rankingbeforelast": 207,
+    "name": "Enenra",
+    "points": 8,
+    "nr1votes": 0,
+    "comments": 3,
+    "fanworks": 0
+  },
+  {
+    "ranking": 216,
+    "rankinglast": 205,
+    "rankingbeforelast": 201,
+    "name": "Salt Merchant",
+    "points": 6,
+    "nr1votes": 0,
+    "comments": 2,
+    "fanworks": 0
+  },
+  {
+    "ranking": 217,
+    "rankinglast": 214,
+    "rankingbeforelast": 202,
+    "name": "Zashiki-warashi",
+    "points": 5,
+    "nr1votes": 0,
+    "comments": 1,
+    "fanworks": 0
+  }
+]
