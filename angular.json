@@ -13,6 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+			"baseHref": "/thvote2023/",
             "outputPath": "dist/tvapp",
             "index": "src/index.html",
             "main": "src/main.ts",
@@ -93,8 +94,14 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }

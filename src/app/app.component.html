@@ -287,7 +287,7 @@
   }
 
   .hidden-row{
-    color: transparent;
+    color: transparent !important;
     background-color:#c53400;
   }
 
@@ -297,6 +297,35 @@
 
   .visible-row{
 
+  }
+  
+  .red{
+	color: red;
+  }
+  
+  .green{
+	color: green;
+  }
+  
+  .neutral{
+	
+  }
+  
+  .bold{
+    font-weight: bold;
+  }
+  
+  .bolder{
+	font-weight: bolder;
+  }
+  
+  ::selection{
+	background-color: #transparent;
+	color: #c53400;
+  }
+  
+  .diff-col{
+	width: 5vw;
   }
 
   /* Responsive Styles */
@@ -348,6 +377,14 @@
       <th mat-header-cell *matHeaderCellDef>Rank</th>
       <td class="ranking-data" mat-cell *matCellDef="let character">{{character.ranking}}</td>
     </ng-container>
+	
+	<ng-container matColumnDef="rankingdiff">
+	  <th class="diff-col" mat-header-cell *matHeaderCellDef>Diff</th>
+	  <td class="diff-col {{get_bold(get_diff(character))}}" 
+		[class.red]='!isGreater(character.ranking) && negDiff(get_diff(character))' 
+		[class.green]='!isGreater(character.ranking) && posDiff(get_diff(character))' 
+		mat-cell *matCellDef="let character">{{get_diff(character)}}{{skull(get_diff(character))}}{{star(get_diff(character))}}</td>
+	</ng-container>
 
     <ng-container matColumnDef="rankinglast">
       <th mat-header-cell *matHeaderCellDef>{{selected - 1}}</th>
